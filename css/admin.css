@@ -1,0 +1,116 @@
+.admin-controls {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 20px;
+    padding: 20px;
+}
+
+.control-panel {
+    background: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+.control-panel h3 {
+    color: var(--primary-color);
+    margin-bottom: 15px;
+}
+
+.control-panel form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.control-panel input {
+    padding: 8px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+
+.control-panel button {
+    padding: 10px;
+    background: var(--primary-color);
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    width: 100%;
+}
+
+.control-panel button:hover {
+    background: var(--secondary-color);
+}
+
+.control-panel input[type="password"] {
+    padding: 8px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.control-panel form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+/* 友情链接管理样式 */
+.links-section {
+    background: white;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.links-section h3 {
+    color: var(--primary-color);
+    margin-bottom: 15px;
+    padding-bottom: 5px;
+    border-bottom: 2px solid var(--primary-color);
+}
+
+.admin-links-list {
+    list-style: none;
+    padding: 0;
+}
+
+.admin-links-list li {
+    display: grid;
+    grid-template-columns: 2fr 3fr 3fr;
+    gap: 20px;
+    padding: 10px;
+    border-bottom: 1px solid #eee;
+    align-items: center;
+}
+
+.admin-links-list li:last-child {
+    border-bottom: none;
+}
+
+.link-title {
+    font-weight: bold;
+    color: var(--primary-color);
+}
+
+.link-url {
+    color: #666;
+    font-family: monospace;
+}
+
+.link-desc {
+    color: #888;
+    font-style: italic;
+}
+
+/* 响应式调整 */
+@media (max-width: 768px) {
+    .admin-links-list li {
+        grid-template-columns: 1fr;
+        gap: 5px;
+    }
+} 

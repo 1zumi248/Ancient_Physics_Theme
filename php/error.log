@@ -1,0 +1,4137 @@
+[28-Dec-2024 15:04:29 Europe/Paris] Database error: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'ssy' for key 'username'
+[28-Dec-2024 15:09:12 Europe/Paris] Database error: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '11' for key 'username'
+[28-Dec-2024 15:09:12 Europe/Paris] Database error: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '11' for key 'username'
+[28-Dec-2024 15:11:55 Europe/Paris] Database error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'banned_until' in 'field list'
+[28-Dec-2024 15:11:55 Europe/Paris] Database error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'banned_until' in 'field list'
+[28-Dec-2024 15:12:13 Europe/Paris] Database error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'banned_until' in 'field list'
+[28-Dec-2024 15:12:13 Europe/Paris] Database error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'banned_until' in 'field list'
+[28-Dec-2024 15:17:09 Europe/Paris] Database error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'banned_until' in 'field list'
+[28-Dec-2024 15:17:09 Europe/Paris] Database error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'banned_until' in 'field list'
+[28-Dec-2024 15:19:24 Europe/Paris] Database error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'banned_until' in 'field list'
+[28-Dec-2024 15:19:24 Europe/Paris] Database error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'banned_until' in 'field list'
+[28-Dec-2024 15:21:33 Europe/Paris] Database error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'banned_until' in 'field list'
+[28-Dec-2024 15:21:33 Europe/Paris] Database error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'banned_until' in 'field list'
+[28-Dec-2024 17:39:21 Europe/Paris] Received action: add
+[28-Dec-2024 17:39:21 Europe/Paris] Session data: Array
+(
+    [user_id] => 15
+    [username] => 111
+    [isAdmin] => 
+)
+
+[28-Dec-2024 17:39:21 Europe/Paris] POST data: Array
+(
+    [action] => add
+    [content] => adad
+    [pageId] => /web/figures.php
+    [elementId] => moment-1
+)
+
+[28-Dec-2024 17:39:21 Europe/Paris] Attempting to insert comment with data: Array
+(
+    [user_id] => 15
+    [username] => 111
+    [content] => adad
+    [pageId] => /web/figures.php
+    [elementId] => moment-1
+)
+
+[28-Dec-2024 17:39:21 Europe/Paris] Database error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'page_id' in 'field list'
+[28-Dec-2024 17:39:35 Europe/Paris] Received action: add
+[28-Dec-2024 17:39:35 Europe/Paris] Session data: Array
+(
+    [user_id] => 15
+    [username] => 111
+    [isAdmin] => 
+)
+
+[28-Dec-2024 17:39:35 Europe/Paris] POST data: Array
+(
+    [action] => add
+    [content] => adad
+    [pageId] => /web/figures.php
+    [elementId] => moment-1
+)
+
+[28-Dec-2024 17:39:35 Europe/Paris] Attempting to insert comment with data: Array
+(
+    [user_id] => 15
+    [username] => 111
+    [content] => adad
+    [pageId] => /web/figures.php
+    [elementId] => moment-1
+)
+
+[28-Dec-2024 17:39:35 Europe/Paris] Database error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'page_id' in 'field list'
+[28-Dec-2024 17:41:30 Europe/Paris] Received action: add
+[28-Dec-2024 17:41:30 Europe/Paris] Session data: Array
+(
+    [user_id] => 15
+    [username] => 111
+    [isAdmin] => 
+)
+
+[28-Dec-2024 17:41:30 Europe/Paris] POST data: Array
+(
+    [action] => add
+    [content] => adad
+    [pageId] => /web/figures.php
+    [elementId] => moment-1
+)
+
+[28-Dec-2024 17:41:30 Europe/Paris] Attempting to insert comment with data: Array
+(
+    [user_id] => 15
+    [username] => 111
+    [content] => adad
+    [pageId] => /web/figures.php
+    [elementId] => moment-1
+)
+
+[28-Dec-2024 17:41:37 Europe/Paris] Received action: get
+[28-Dec-2024 17:41:37 Europe/Paris] Session data: Array
+(
+)
+
+[28-Dec-2024 17:41:37 Europe/Paris] POST data: Array
+(
+)
+
+[28-Dec-2024 17:41:37 Europe/Paris] Received action: get
+[28-Dec-2024 17:41:37 Europe/Paris] Session data: Array
+(
+)
+
+[28-Dec-2024 17:41:37 Europe/Paris] POST data: Array
+(
+)
+
+[28-Dec-2024 17:41:37 Europe/Paris] Received action: get
+[28-Dec-2024 17:41:37 Europe/Paris] Session data: Array
+(
+)
+
+[28-Dec-2024 17:41:37 Europe/Paris] POST data: Array
+(
+)
+
+[28-Dec-2024 17:41:37 Europe/Paris] Received action: get
+[28-Dec-2024 17:41:37 Europe/Paris] Session data: Array
+(
+)
+
+[28-Dec-2024 17:41:37 Europe/Paris] POST data: Array
+(
+)
+
+[28-Dec-2024 17:41:37 Europe/Paris] Received action: get
+[28-Dec-2024 17:41:37 Europe/Paris] Session data: Array
+(
+)
+
+[28-Dec-2024 17:41:37 Europe/Paris] POST data: Array
+(
+)
+
+[28-Dec-2024 17:41:37 Europe/Paris] Received action: get
+[28-Dec-2024 17:41:37 Europe/Paris] Session data: Array
+(
+)
+
+[28-Dec-2024 17:41:37 Europe/Paris] POST data: Array
+(
+)
+
+[28-Dec-2024 17:41:38 Europe/Paris] Received action: get
+[28-Dec-2024 17:41:38 Europe/Paris] Session data: Array
+(
+)
+
+[28-Dec-2024 17:41:38 Europe/Paris] POST data: Array
+(
+)
+
+[28-Dec-2024 17:41:38 Europe/Paris] Received action: get
+[28-Dec-2024 17:41:38 Europe/Paris] Session data: Array
+(
+)
+
+[28-Dec-2024 17:41:38 Europe/Paris] POST data: Array
+(
+)
+
+[28-Dec-2024 17:41:38 Europe/Paris] Received action: get
+[28-Dec-2024 17:41:38 Europe/Paris] Session data: Array
+(
+)
+
+[28-Dec-2024 17:41:38 Europe/Paris] POST data: Array
+(
+)
+
+[28-Dec-2024 17:41:38 Europe/Paris] Received action: get
+[28-Dec-2024 17:41:38 Europe/Paris] Session data: Array
+(
+)
+
+[28-Dec-2024 17:41:38 Europe/Paris] POST data: Array
+(
+)
+
+[28-Dec-2024 17:41:56 Europe/Paris] Received action: get
+[28-Dec-2024 17:41:56 Europe/Paris] Session data: Array
+(
+    [username] => admin
+    [isAdmin] => 1
+)
+
+[28-Dec-2024 17:41:56 Europe/Paris] POST data: Array
+(
+)
+
+[28-Dec-2024 17:41:56 Europe/Paris] Received action: get
+[28-Dec-2024 17:41:56 Europe/Paris] Session data: Array
+(
+    [username] => admin
+    [isAdmin] => 1
+)
+
+[28-Dec-2024 17:41:56 Europe/Paris] POST data: Array
+(
+)
+
+[28-Dec-2024 17:41:56 Europe/Paris] Received action: get
+[28-Dec-2024 17:41:56 Europe/Paris] Session data: Array
+(
+    [username] => admin
+    [isAdmin] => 1
+)
+
+[28-Dec-2024 17:41:56 Europe/Paris] POST data: Array
+(
+)
+
+[28-Dec-2024 17:41:56 Europe/Paris] Received action: get
+[28-Dec-2024 17:41:56 Europe/Paris] Session data: Array
+(
+    [username] => admin
+    [isAdmin] => 1
+)
+
+[28-Dec-2024 17:41:56 Europe/Paris] POST data: Array
+(
+)
+
+[28-Dec-2024 17:41:56 Europe/Paris] Received action: get
+[28-Dec-2024 17:41:56 Europe/Paris] Session data: Array
+(
+    [username] => admin
+    [isAdmin] => 1
+)
+
+[28-Dec-2024 17:41:56 Europe/Paris] POST data: Array
+(
+)
+
+[28-Dec-2024 17:41:56 Europe/Paris] Received action: get
+[28-Dec-2024 17:41:56 Europe/Paris] Session data: Array
+(
+    [username] => admin
+    [isAdmin] => 1
+)
+
+[28-Dec-2024 17:41:56 Europe/Paris] POST data: Array
+(
+)
+
+[28-Dec-2024 17:41:56 Europe/Paris] Received action: get
+[28-Dec-2024 17:41:56 Europe/Paris] Session data: Array
+(
+    [username] => admin
+    [isAdmin] => 1
+)
+
+[28-Dec-2024 17:41:56 Europe/Paris] POST data: Array
+(
+)
+
+[28-Dec-2024 17:41:56 Europe/Paris] Received action: get
+[28-Dec-2024 17:41:56 Europe/Paris] Session data: Array
+(
+    [username] => admin
+    [isAdmin] => 1
+)
+
+[28-Dec-2024 17:41:56 Europe/Paris] POST data: Array
+(
+)
+
+[28-Dec-2024 17:41:56 Europe/Paris] Received action: get
+[28-Dec-2024 17:41:56 Europe/Paris] Session data: Array
+(
+    [username] => admin
+    [isAdmin] => 1
+)
+
+[28-Dec-2024 17:41:56 Europe/Paris] POST data: Array
+(
+)
+
+[28-Dec-2024 17:41:56 Europe/Paris] Received action: get
+[28-Dec-2024 17:41:56 Europe/Paris] Session data: Array
+(
+    [username] => admin
+    [isAdmin] => 1
+)
+
+[28-Dec-2024 17:41:56 Europe/Paris] POST data: Array
+(
+)
+
+[28-Dec-2024 17:43:58 Europe/Paris] Received action: get
+[28-Dec-2024 17:43:58 Europe/Paris] Session data: Array
+(
+    [username] => admin
+    [isAdmin] => 1
+)
+
+[28-Dec-2024 17:43:58 Europe/Paris] POST data: Array
+(
+)
+
+[28-Dec-2024 17:43:58 Europe/Paris] Received action: get
+[28-Dec-2024 17:43:58 Europe/Paris] Session data: Array
+(
+    [username] => admin
+    [isAdmin] => 1
+)
+
+[28-Dec-2024 17:43:58 Europe/Paris] POST data: Array
+(
+)
+
+[28-Dec-2024 17:43:58 Europe/Paris] Received action: get
+[28-Dec-2024 17:43:58 Europe/Paris] Session data: Array
+(
+    [username] => admin
+    [isAdmin] => 1
+)
+
+[28-Dec-2024 17:43:58 Europe/Paris] POST data: Array
+(
+)
+
+[28-Dec-2024 17:43:58 Europe/Paris] Received action: get
+[28-Dec-2024 17:43:58 Europe/Paris] Session data: Array
+(
+    [username] => admin
+    [isAdmin] => 1
+)
+
+[28-Dec-2024 17:43:58 Europe/Paris] POST data: Array
+(
+)
+
+[28-Dec-2024 17:43:58 Europe/Paris] Received action: get
+[28-Dec-2024 17:43:58 Europe/Paris] Session data: Array
+(
+    [username] => admin
+    [isAdmin] => 1
+)
+
+[28-Dec-2024 17:43:58 Europe/Paris] POST data: Array
+(
+)
+
+[28-Dec-2024 17:43:58 Europe/Paris] Received action: get
+[28-Dec-2024 17:43:58 Europe/Paris] Session data: Array
+(
+    [username] => admin
+    [isAdmin] => 1
+)
+
+[28-Dec-2024 17:43:58 Europe/Paris] POST data: Array
+(
+)
+
+[28-Dec-2024 17:43:58 Europe/Paris] Received action: get
+[28-Dec-2024 17:43:58 Europe/Paris] Session data: Array
+(
+    [username] => admin
+    [isAdmin] => 1
+)
+
+[28-Dec-2024 17:43:58 Europe/Paris] POST data: Array
+(
+)
+
+[28-Dec-2024 17:43:58 Europe/Paris] Received action: get
+[28-Dec-2024 17:43:58 Europe/Paris] Session data: Array
+(
+    [username] => admin
+    [isAdmin] => 1
+)
+
+[28-Dec-2024 17:43:58 Europe/Paris] POST data: Array
+(
+)
+
+[28-Dec-2024 17:43:58 Europe/Paris] Received action: get
+[28-Dec-2024 17:43:58 Europe/Paris] Session data: Array
+(
+    [username] => admin
+    [isAdmin] => 1
+)
+
+[28-Dec-2024 17:43:58 Europe/Paris] POST data: Array
+(
+)
+
+[28-Dec-2024 17:43:58 Europe/Paris] Received action: get
+[28-Dec-2024 17:43:58 Europe/Paris] Session data: Array
+(
+    [username] => admin
+    [isAdmin] => 1
+)
+
+[28-Dec-2024 17:43:58 Europe/Paris] POST data: Array
+(
+)
+
+[28-Dec-2024 17:44:03 Europe/Paris] Received action: add
+[28-Dec-2024 17:44:03 Europe/Paris] Session data: Array
+(
+    [username] => admin
+    [isAdmin] => 1
+)
+
+[28-Dec-2024 17:44:03 Europe/Paris] POST data: Array
+(
+    [action] => add
+    [content] => a
+    [pageId] => /web/figures.php
+    [elementId] => moment-mozi
+)
+
+[28-Dec-2024 17:44:11 Europe/Paris] Received action: get
+[28-Dec-2024 17:44:11 Europe/Paris] Session data: Array
+(
+    [user_id] => 15
+    [username] => 111
+    [isAdmin] => 
+)
+
+[28-Dec-2024 17:44:11 Europe/Paris] POST data: Array
+(
+)
+
+[28-Dec-2024 17:44:11 Europe/Paris] Received action: get
+[28-Dec-2024 17:44:11 Europe/Paris] Session data: Array
+(
+    [user_id] => 15
+    [username] => 111
+    [isAdmin] => 
+)
+
+[28-Dec-2024 17:44:11 Europe/Paris] POST data: Array
+(
+)
+
+[28-Dec-2024 17:44:11 Europe/Paris] Received action: get
+[28-Dec-2024 17:44:11 Europe/Paris] Session data: Array
+(
+    [user_id] => 15
+    [username] => 111
+    [isAdmin] => 
+)
+
+[28-Dec-2024 17:44:11 Europe/Paris] POST data: Array
+(
+)
+
+[28-Dec-2024 17:44:11 Europe/Paris] Received action: get
+[28-Dec-2024 17:44:11 Europe/Paris] Session data: Array
+(
+    [user_id] => 15
+    [username] => 111
+    [isAdmin] => 
+)
+
+[28-Dec-2024 17:44:11 Europe/Paris] POST data: Array
+(
+)
+
+[28-Dec-2024 17:44:11 Europe/Paris] Received action: get
+[28-Dec-2024 17:44:11 Europe/Paris] Session data: Array
+(
+    [user_id] => 15
+    [username] => 111
+    [isAdmin] => 
+)
+
+[28-Dec-2024 17:44:11 Europe/Paris] POST data: Array
+(
+)
+
+[28-Dec-2024 17:44:11 Europe/Paris] Received action: get
+[28-Dec-2024 17:44:11 Europe/Paris] Session data: Array
+(
+    [user_id] => 15
+    [username] => 111
+    [isAdmin] => 
+)
+
+[28-Dec-2024 17:44:11 Europe/Paris] POST data: Array
+(
+)
+
+[28-Dec-2024 17:44:11 Europe/Paris] Received action: get
+[28-Dec-2024 17:44:11 Europe/Paris] Session data: Array
+(
+    [user_id] => 15
+    [username] => 111
+    [isAdmin] => 
+)
+
+[28-Dec-2024 17:44:11 Europe/Paris] POST data: Array
+(
+)
+
+[28-Dec-2024 17:44:11 Europe/Paris] Received action: get
+[28-Dec-2024 17:44:11 Europe/Paris] Session data: Array
+(
+    [user_id] => 15
+    [username] => 111
+    [isAdmin] => 
+)
+
+[28-Dec-2024 17:44:11 Europe/Paris] POST data: Array
+(
+)
+
+[28-Dec-2024 17:44:11 Europe/Paris] Received action: get
+[28-Dec-2024 17:44:11 Europe/Paris] Session data: Array
+(
+    [user_id] => 15
+    [username] => 111
+    [isAdmin] => 
+)
+
+[28-Dec-2024 17:44:11 Europe/Paris] POST data: Array
+(
+)
+
+[28-Dec-2024 17:44:11 Europe/Paris] Received action: get
+[28-Dec-2024 17:44:11 Europe/Paris] Session data: Array
+(
+    [user_id] => 15
+    [username] => 111
+    [isAdmin] => 
+)
+
+[28-Dec-2024 17:44:11 Europe/Paris] POST data: Array
+(
+)
+
+[28-Dec-2024 17:44:14 Europe/Paris] Received action: add
+[28-Dec-2024 17:44:14 Europe/Paris] Session data: Array
+(
+    [user_id] => 15
+    [username] => 111
+    [isAdmin] => 
+)
+
+[28-Dec-2024 17:44:14 Europe/Paris] POST data: Array
+(
+    [action] => add
+    [content] => 1
+    [pageId] => /web/figures.php
+    [elementId] => moment-mozi
+)
+
+[28-Dec-2024 17:44:14 Europe/Paris] Attempting to insert comment with data: Array
+(
+    [user_id] => 15
+    [username] => 111
+    [content] => 1
+    [pageId] => /web/figures.php
+    [elementId] => moment-mozi
+)
+
+[28-Dec-2024 17:44:37 Europe/Paris] Received action: get
+[28-Dec-2024 17:44:37 Europe/Paris] Session data: Array
+(
+    [user_id] => 15
+    [username] => 111
+    [isAdmin] => 
+)
+
+[28-Dec-2024 17:44:37 Europe/Paris] POST data: Array
+(
+)
+
+[28-Dec-2024 17:44:37 Europe/Paris] Received action: get
+[28-Dec-2024 17:44:37 Europe/Paris] Session data: Array
+(
+    [user_id] => 15
+    [username] => 111
+    [isAdmin] => 
+)
+
+[28-Dec-2024 17:44:37 Europe/Paris] POST data: Array
+(
+)
+
+[28-Dec-2024 17:44:37 Europe/Paris] Received action: get
+[28-Dec-2024 17:44:37 Europe/Paris] Session data: Array
+(
+    [user_id] => 15
+    [username] => 111
+    [isAdmin] => 
+)
+
+[28-Dec-2024 17:44:37 Europe/Paris] POST data: Array
+(
+)
+
+[28-Dec-2024 17:44:37 Europe/Paris] Received action: get
+[28-Dec-2024 17:44:37 Europe/Paris] Session data: Array
+(
+    [user_id] => 15
+    [username] => 111
+    [isAdmin] => 
+)
+
+[28-Dec-2024 17:44:37 Europe/Paris] POST data: Array
+(
+)
+
+[28-Dec-2024 17:44:37 Europe/Paris] Received action: get
+[28-Dec-2024 17:44:37 Europe/Paris] Session data: Array
+(
+    [user_id] => 15
+    [username] => 111
+    [isAdmin] => 
+)
+
+[28-Dec-2024 17:44:37 Europe/Paris] POST data: Array
+(
+)
+
+[28-Dec-2024 17:44:37 Europe/Paris] Received action: get
+[28-Dec-2024 17:44:37 Europe/Paris] Session data: Array
+(
+    [user_id] => 15
+    [username] => 111
+    [isAdmin] => 
+)
+
+[28-Dec-2024 17:44:37 Europe/Paris] POST data: Array
+(
+)
+
+[28-Dec-2024 17:44:37 Europe/Paris] Received action: get
+[28-Dec-2024 17:44:37 Europe/Paris] Session data: Array
+(
+    [user_id] => 15
+    [username] => 111
+    [isAdmin] => 
+)
+
+[28-Dec-2024 17:44:37 Europe/Paris] POST data: Array
+(
+)
+
+[28-Dec-2024 17:44:37 Europe/Paris] Received action: get
+[28-Dec-2024 17:44:37 Europe/Paris] Session data: Array
+(
+    [user_id] => 15
+    [username] => 111
+    [isAdmin] => 
+)
+
+[28-Dec-2024 17:44:37 Europe/Paris] POST data: Array
+(
+)
+
+[28-Dec-2024 17:44:37 Europe/Paris] Received action: get
+[28-Dec-2024 17:44:37 Europe/Paris] Session data: Array
+(
+    [user_id] => 15
+    [username] => 111
+    [isAdmin] => 
+)
+
+[28-Dec-2024 17:44:37 Europe/Paris] POST data: Array
+(
+)
+
+[28-Dec-2024 17:44:37 Europe/Paris] Received action: get
+[28-Dec-2024 17:44:37 Europe/Paris] Session data: Array
+(
+    [user_id] => 15
+    [username] => 111
+    [isAdmin] => 
+)
+
+[28-Dec-2024 17:44:37 Europe/Paris] POST data: Array
+(
+)
+
+[28-Dec-2024 17:44:57 Europe/Paris] Received action: add
+[28-Dec-2024 17:44:57 Europe/Paris] Session data: Array
+(
+    [user_id] => 15
+    [username] => 111
+    [isAdmin] => 
+)
+
+[28-Dec-2024 17:44:57 Europe/Paris] POST data: Array
+(
+    [action] => add
+    [content] => 好厉害
+    [pageId] => /web/figures.php
+    [elementId] => moment-mozi
+)
+
+[28-Dec-2024 17:44:57 Europe/Paris] Attempting to insert comment with data: Array
+(
+    [user_id] => 15
+    [username] => 111
+    [content] => 好厉害
+    [pageId] => /web/figures.php
+    [elementId] => moment-mozi
+)
+
+[28-Dec-2024 17:47:33 Europe/Paris] Received action: get
+[28-Dec-2024 17:47:33 Europe/Paris] Session data: Array
+(
+    [user_id] => 15
+    [username] => 111
+    [isAdmin] => 
+)
+
+[28-Dec-2024 17:47:33 Europe/Paris] POST data: Array
+(
+)
+
+[28-Dec-2024 17:47:33 Europe/Paris] Received action: get
+[28-Dec-2024 17:47:33 Europe/Paris] Session data: Array
+(
+    [user_id] => 15
+    [username] => 111
+    [isAdmin] => 
+)
+
+[28-Dec-2024 17:47:33 Europe/Paris] POST data: Array
+(
+)
+
+[28-Dec-2024 17:47:33 Europe/Paris] Received action: get
+[28-Dec-2024 17:47:33 Europe/Paris] Session data: Array
+(
+    [user_id] => 15
+    [username] => 111
+    [isAdmin] => 
+)
+
+[28-Dec-2024 17:47:33 Europe/Paris] POST data: Array
+(
+)
+
+[28-Dec-2024 17:47:33 Europe/Paris] Received action: get
+[28-Dec-2024 17:47:33 Europe/Paris] Session data: Array
+(
+    [user_id] => 15
+    [username] => 111
+    [isAdmin] => 
+)
+
+[28-Dec-2024 17:47:33 Europe/Paris] POST data: Array
+(
+)
+
+[28-Dec-2024 17:47:33 Europe/Paris] Received action: get
+[28-Dec-2024 17:47:33 Europe/Paris] Session data: Array
+(
+    [user_id] => 15
+    [username] => 111
+    [isAdmin] => 
+)
+
+[28-Dec-2024 17:47:33 Europe/Paris] POST data: Array
+(
+)
+
+[28-Dec-2024 17:47:33 Europe/Paris] Received action: get
+[28-Dec-2024 17:47:33 Europe/Paris] Session data: Array
+(
+    [user_id] => 15
+    [username] => 111
+    [isAdmin] => 
+)
+
+[28-Dec-2024 17:47:33 Europe/Paris] POST data: Array
+(
+)
+
+[28-Dec-2024 17:47:33 Europe/Paris] Received action: get
+[28-Dec-2024 17:47:33 Europe/Paris] Session data: Array
+(
+    [user_id] => 15
+    [username] => 111
+    [isAdmin] => 
+)
+
+[28-Dec-2024 17:47:33 Europe/Paris] POST data: Array
+(
+)
+
+[28-Dec-2024 17:47:33 Europe/Paris] Received action: get
+[28-Dec-2024 17:47:33 Europe/Paris] Session data: Array
+(
+    [user_id] => 15
+    [username] => 111
+    [isAdmin] => 
+)
+
+[28-Dec-2024 17:47:33 Europe/Paris] POST data: Array
+(
+)
+
+[28-Dec-2024 17:47:33 Europe/Paris] Received action: get
+[28-Dec-2024 17:47:33 Europe/Paris] Session data: Array
+(
+    [user_id] => 15
+    [username] => 111
+    [isAdmin] => 
+)
+
+[28-Dec-2024 17:47:33 Europe/Paris] POST data: Array
+(
+)
+
+[28-Dec-2024 17:47:33 Europe/Paris] Received action: get
+[28-Dec-2024 17:47:33 Europe/Paris] Session data: Array
+(
+    [user_id] => 15
+    [username] => 111
+    [isAdmin] => 
+)
+
+[28-Dec-2024 17:47:33 Europe/Paris] POST data: Array
+(
+)
+
+[28-Dec-2024 17:47:38 Europe/Paris] Received action: add
+[28-Dec-2024 17:47:38 Europe/Paris] Session data: Array
+(
+    [user_id] => 15
+    [username] => 111
+    [isAdmin] => 
+)
+
+[28-Dec-2024 17:47:38 Europe/Paris] POST data: Array
+(
+    [action] => add
+    [content] => 33
+    [pageId] => /web/figures.php
+    [elementId] => moment-shenkuo
+)
+
+[28-Dec-2024 17:47:38 Europe/Paris] Attempting to insert comment with data: Array
+(
+    [user_id] => 15
+    [username] => 111
+    [content] => 33
+    [pageId] => /web/figures.php
+    [elementId] => moment-shenkuo
+)
+
+[28-Dec-2024 17:47:52 Europe/Paris] Received action: delete
+[28-Dec-2024 17:47:52 Europe/Paris] Session data: Array
+(
+    [username] => admin
+    [isAdmin] => 1
+)
+
+[28-Dec-2024 17:47:52 Europe/Paris] POST data: Array
+(
+    [action] => delete
+    [commentId] => 4
+)
+
+[28-Dec-2024 17:47:56 Europe/Paris] Received action: delete
+[28-Dec-2024 17:47:56 Europe/Paris] Session data: Array
+(
+    [username] => admin
+    [isAdmin] => 1
+)
+
+[28-Dec-2024 17:47:56 Europe/Paris] POST data: Array
+(
+    [action] => delete
+    [commentId] => 4
+)
+
+[28-Dec-2024 17:48:07 Europe/Paris] Received action: delete
+[28-Dec-2024 17:48:07 Europe/Paris] Session data: Array
+(
+    [username] => admin
+    [isAdmin] => 1
+)
+
+[28-Dec-2024 17:48:07 Europe/Paris] POST data: Array
+(
+    [action] => delete
+    [commentId] => 4
+)
+
+[28-Dec-2024 17:48:59 Europe/Paris] Received action: delete
+[28-Dec-2024 17:48:59 Europe/Paris] Session data: Array
+(
+    [username] => admin
+    [isAdmin] => 1
+)
+
+[28-Dec-2024 17:48:59 Europe/Paris] POST data: Array
+(
+    [action] => delete
+    [commentId] => 4
+)
+
+[28-Dec-2024 17:49:13 Europe/Paris] Received action: get
+[28-Dec-2024 17:49:13 Europe/Paris] Session data: Array
+(
+    [username] => admin
+    [isAdmin] => 1
+)
+
+[28-Dec-2024 17:49:13 Europe/Paris] POST data: Array
+(
+)
+
+[28-Dec-2024 17:49:13 Europe/Paris] Received action: get
+[28-Dec-2024 17:49:13 Europe/Paris] Session data: Array
+(
+    [username] => admin
+    [isAdmin] => 1
+)
+
+[28-Dec-2024 17:49:13 Europe/Paris] POST data: Array
+(
+)
+
+[28-Dec-2024 17:49:13 Europe/Paris] Received action: get
+[28-Dec-2024 17:49:13 Europe/Paris] Session data: Array
+(
+    [username] => admin
+    [isAdmin] => 1
+)
+
+[28-Dec-2024 17:49:13 Europe/Paris] POST data: Array
+(
+)
+
+[28-Dec-2024 17:49:13 Europe/Paris] Received action: get
+[28-Dec-2024 17:49:13 Europe/Paris] Session data: Array
+(
+    [username] => admin
+    [isAdmin] => 1
+)
+
+[28-Dec-2024 17:49:13 Europe/Paris] POST data: Array
+(
+)
+
+[28-Dec-2024 17:49:13 Europe/Paris] Received action: get
+[28-Dec-2024 17:49:13 Europe/Paris] Session data: Array
+(
+    [username] => admin
+    [isAdmin] => 1
+)
+
+[28-Dec-2024 17:49:13 Europe/Paris] POST data: Array
+(
+)
+
+[28-Dec-2024 17:49:13 Europe/Paris] Received action: get
+[28-Dec-2024 17:49:13 Europe/Paris] Session data: Array
+(
+    [username] => admin
+    [isAdmin] => 1
+)
+
+[28-Dec-2024 17:49:13 Europe/Paris] POST data: Array
+(
+)
+
+[28-Dec-2024 17:49:13 Europe/Paris] Received action: get
+[28-Dec-2024 17:49:13 Europe/Paris] Session data: Array
+(
+    [username] => admin
+    [isAdmin] => 1
+)
+
+[28-Dec-2024 17:49:13 Europe/Paris] POST data: Array
+(
+)
+
+[28-Dec-2024 17:49:13 Europe/Paris] Received action: get
+[28-Dec-2024 17:49:13 Europe/Paris] Session data: Array
+(
+    [username] => admin
+    [isAdmin] => 1
+)
+
+[28-Dec-2024 17:49:13 Europe/Paris] POST data: Array
+(
+)
+
+[28-Dec-2024 17:49:13 Europe/Paris] Received action: get
+[28-Dec-2024 17:49:13 Europe/Paris] Session data: Array
+(
+    [username] => admin
+    [isAdmin] => 1
+)
+
+[28-Dec-2024 17:49:13 Europe/Paris] POST data: Array
+(
+)
+
+[28-Dec-2024 17:49:13 Europe/Paris] Received action: get
+[28-Dec-2024 17:49:13 Europe/Paris] Session data: Array
+(
+    [username] => admin
+    [isAdmin] => 1
+)
+
+[28-Dec-2024 17:49:13 Europe/Paris] POST data: Array
+(
+)
+
+[28-Dec-2024 17:50:34 Europe/Paris] Received action: delete
+[28-Dec-2024 17:50:34 Europe/Paris] Session data: Array
+(
+    [username] => admin
+    [isAdmin] => 1
+)
+
+[28-Dec-2024 17:50:34 Europe/Paris] POST data: Array
+(
+    [action] => delete
+    [commentId] => 3
+)
+
+[28-Dec-2024 17:50:40 Europe/Paris] Received action: get
+[28-Dec-2024 17:50:40 Europe/Paris] Session data: Array
+(
+)
+
+[28-Dec-2024 17:50:40 Europe/Paris] POST data: Array
+(
+)
+
+[28-Dec-2024 17:50:40 Europe/Paris] Received action: get
+[28-Dec-2024 17:50:40 Europe/Paris] Session data: Array
+(
+)
+
+[28-Dec-2024 17:50:40 Europe/Paris] POST data: Array
+(
+)
+
+[28-Dec-2024 17:50:40 Europe/Paris] Received action: get
+[28-Dec-2024 17:50:40 Europe/Paris] Session data: Array
+(
+)
+
+[28-Dec-2024 17:50:40 Europe/Paris] POST data: Array
+(
+)
+
+[28-Dec-2024 17:50:40 Europe/Paris] Received action: get
+[28-Dec-2024 17:50:40 Europe/Paris] Session data: Array
+(
+)
+
+[28-Dec-2024 17:50:40 Europe/Paris] POST data: Array
+(
+)
+
+[28-Dec-2024 17:50:40 Europe/Paris] Received action: get
+[28-Dec-2024 17:50:40 Europe/Paris] Session data: Array
+(
+)
+
+[28-Dec-2024 17:50:40 Europe/Paris] POST data: Array
+(
+)
+
+[28-Dec-2024 17:50:40 Europe/Paris] Received action: get
+[28-Dec-2024 17:50:40 Europe/Paris] Session data: Array
+(
+)
+
+[28-Dec-2024 17:50:40 Europe/Paris] POST data: Array
+(
+)
+
+[28-Dec-2024 17:50:40 Europe/Paris] Received action: get
+[28-Dec-2024 17:50:40 Europe/Paris] Session data: Array
+(
+)
+
+[28-Dec-2024 17:50:40 Europe/Paris] POST data: Array
+(
+)
+
+[28-Dec-2024 17:50:40 Europe/Paris] Received action: get
+[28-Dec-2024 17:50:40 Europe/Paris] Session data: Array
+(
+)
+
+[28-Dec-2024 17:50:40 Europe/Paris] POST data: Array
+(
+)
+
+[28-Dec-2024 17:50:40 Europe/Paris] Received action: get
+[28-Dec-2024 17:50:40 Europe/Paris] Session data: Array
+(
+)
+
+[28-Dec-2024 17:50:40 Europe/Paris] POST data: Array
+(
+)
+
+[28-Dec-2024 17:50:40 Europe/Paris] Received action: get
+[28-Dec-2024 17:50:40 Europe/Paris] Session data: Array
+(
+)
+
+[28-Dec-2024 17:50:40 Europe/Paris] POST data: Array
+(
+)
+
+[28-Dec-2024 17:50:57 Europe/Paris] Received action: get
+[28-Dec-2024 17:50:57 Europe/Paris] Session data: Array
+(
+    [user_id] => 12
+    [username] => 1
+    [isAdmin] => 
+)
+
+[28-Dec-2024 17:50:57 Europe/Paris] POST data: Array
+(
+)
+
+[28-Dec-2024 17:50:57 Europe/Paris] Received action: get
+[28-Dec-2024 17:50:57 Europe/Paris] Session data: Array
+(
+    [user_id] => 12
+    [username] => 1
+    [isAdmin] => 
+)
+
+[28-Dec-2024 17:50:57 Europe/Paris] POST data: Array
+(
+)
+
+[28-Dec-2024 17:50:57 Europe/Paris] Received action: get
+[28-Dec-2024 17:50:57 Europe/Paris] Session data: Array
+(
+    [user_id] => 12
+    [username] => 1
+    [isAdmin] => 
+)
+
+[28-Dec-2024 17:50:57 Europe/Paris] POST data: Array
+(
+)
+
+[28-Dec-2024 17:50:57 Europe/Paris] Received action: get
+[28-Dec-2024 17:50:57 Europe/Paris] Session data: Array
+(
+    [user_id] => 12
+    [username] => 1
+    [isAdmin] => 
+)
+
+[28-Dec-2024 17:50:57 Europe/Paris] POST data: Array
+(
+)
+
+[28-Dec-2024 17:50:57 Europe/Paris] Received action: get
+[28-Dec-2024 17:50:57 Europe/Paris] Session data: Array
+(
+    [user_id] => 12
+    [username] => 1
+    [isAdmin] => 
+)
+
+[28-Dec-2024 17:50:57 Europe/Paris] POST data: Array
+(
+)
+
+[28-Dec-2024 17:50:57 Europe/Paris] Received action: get
+[28-Dec-2024 17:50:57 Europe/Paris] Session data: Array
+(
+    [user_id] => 12
+    [username] => 1
+    [isAdmin] => 
+)
+
+[28-Dec-2024 17:50:57 Europe/Paris] POST data: Array
+(
+)
+
+[28-Dec-2024 17:50:57 Europe/Paris] Received action: get
+[28-Dec-2024 17:50:57 Europe/Paris] Session data: Array
+(
+    [user_id] => 12
+    [username] => 1
+    [isAdmin] => 
+)
+
+[28-Dec-2024 17:50:57 Europe/Paris] POST data: Array
+(
+)
+
+[28-Dec-2024 17:50:57 Europe/Paris] Received action: get
+[28-Dec-2024 17:50:57 Europe/Paris] Session data: Array
+(
+    [user_id] => 12
+    [username] => 1
+    [isAdmin] => 
+)
+
+[28-Dec-2024 17:50:57 Europe/Paris] POST data: Array
+(
+)
+
+[28-Dec-2024 17:50:57 Europe/Paris] Received action: get
+[28-Dec-2024 17:50:57 Europe/Paris] Session data: Array
+(
+    [user_id] => 12
+    [username] => 1
+    [isAdmin] => 
+)
+
+[28-Dec-2024 17:50:57 Europe/Paris] POST data: Array
+(
+)
+
+[28-Dec-2024 17:50:57 Europe/Paris] Received action: get
+[28-Dec-2024 17:50:57 Europe/Paris] Session data: Array
+(
+    [user_id] => 12
+    [username] => 1
+    [isAdmin] => 
+)
+
+[28-Dec-2024 17:50:57 Europe/Paris] POST data: Array
+(
+)
+
+[28-Dec-2024 18:09:02 Europe/Paris] Received action: get
+[28-Dec-2024 18:09:02 Europe/Paris] Session data: Array
+(
+    [message] => 注册成功！
+    [user_id] => 22
+    [username] => ssy
+    [isAdmin] => 
+)
+
+[28-Dec-2024 18:09:02 Europe/Paris] POST data: Array
+(
+)
+
+[28-Dec-2024 18:09:02 Europe/Paris] Received action: get
+[28-Dec-2024 18:09:02 Europe/Paris] Session data: Array
+(
+    [message] => 注册成功！
+    [user_id] => 22
+    [username] => ssy
+    [isAdmin] => 
+)
+
+[28-Dec-2024 18:09:02 Europe/Paris] POST data: Array
+(
+)
+
+[28-Dec-2024 18:09:02 Europe/Paris] Received action: get
+[28-Dec-2024 18:09:02 Europe/Paris] Session data: Array
+(
+    [message] => 注册成功！
+    [user_id] => 22
+    [username] => ssy
+    [isAdmin] => 
+)
+
+[28-Dec-2024 18:09:02 Europe/Paris] POST data: Array
+(
+)
+
+[28-Dec-2024 18:09:02 Europe/Paris] Received action: get
+[28-Dec-2024 18:09:02 Europe/Paris] Session data: Array
+(
+    [message] => 注册成功！
+    [user_id] => 22
+    [username] => ssy
+    [isAdmin] => 
+)
+
+[28-Dec-2024 18:09:02 Europe/Paris] POST data: Array
+(
+)
+
+[28-Dec-2024 18:09:02 Europe/Paris] Received action: get
+[28-Dec-2024 18:09:02 Europe/Paris] Session data: Array
+(
+    [message] => 注册成功！
+    [user_id] => 22
+    [username] => ssy
+    [isAdmin] => 
+)
+
+[28-Dec-2024 18:09:02 Europe/Paris] POST data: Array
+(
+)
+
+[28-Dec-2024 18:09:02 Europe/Paris] Received action: get
+[28-Dec-2024 18:09:02 Europe/Paris] Session data: Array
+(
+    [message] => 注册成功！
+    [user_id] => 22
+    [username] => ssy
+    [isAdmin] => 
+)
+
+[28-Dec-2024 18:09:02 Europe/Paris] POST data: Array
+(
+)
+
+[28-Dec-2024 18:09:02 Europe/Paris] Received action: get
+[28-Dec-2024 18:09:02 Europe/Paris] Session data: Array
+(
+    [message] => 注册成功！
+    [user_id] => 22
+    [username] => ssy
+    [isAdmin] => 
+)
+
+[28-Dec-2024 18:09:02 Europe/Paris] POST data: Array
+(
+)
+
+[28-Dec-2024 18:09:02 Europe/Paris] Received action: get
+[28-Dec-2024 18:09:02 Europe/Paris] Session data: Array
+(
+    [message] => 注册成功！
+    [user_id] => 22
+    [username] => ssy
+    [isAdmin] => 
+)
+
+[28-Dec-2024 18:09:02 Europe/Paris] POST data: Array
+(
+)
+
+[28-Dec-2024 18:09:02 Europe/Paris] Received action: get
+[28-Dec-2024 18:09:02 Europe/Paris] Session data: Array
+(
+    [message] => 注册成功！
+    [user_id] => 22
+    [username] => ssy
+    [isAdmin] => 
+)
+
+[28-Dec-2024 18:09:02 Europe/Paris] POST data: Array
+(
+)
+
+[28-Dec-2024 18:09:02 Europe/Paris] Received action: get
+[28-Dec-2024 18:09:02 Europe/Paris] Session data: Array
+(
+    [message] => 注册成功！
+    [user_id] => 22
+    [username] => ssy
+    [isAdmin] => 
+)
+
+[28-Dec-2024 18:09:02 Europe/Paris] POST data: Array
+(
+)
+
+[28-Dec-2024 18:09:10 Europe/Paris] Received action: add
+[28-Dec-2024 18:09:10 Europe/Paris] Session data: Array
+(
+    [message] => 注册成功！
+    [user_id] => 22
+    [username] => ssy
+    [isAdmin] => 
+)
+
+[28-Dec-2024 18:09:10 Europe/Paris] POST data: Array
+(
+    [action] => add
+    [content] => hao1
+    [pageId] => /web/figures.php
+    [elementId] => moment-mozi
+)
+
+[28-Dec-2024 18:09:10 Europe/Paris] Attempting to insert comment with data: Array
+(
+    [user_id] => 22
+    [username] => ssy
+    [content] => hao1
+    [pageId] => /web/figures.php
+    [elementId] => moment-mozi
+)
+
+[28-Dec-2024 18:10:32 Europe/Paris] Received action: get
+[28-Dec-2024 18:10:32 Europe/Paris] Session data: Array
+(
+    [username] => admin
+    [isAdmin] => 1
+)
+
+[28-Dec-2024 18:10:32 Europe/Paris] POST data: Array
+(
+)
+
+[28-Dec-2024 18:10:32 Europe/Paris] Received action: get
+[28-Dec-2024 18:10:32 Europe/Paris] Session data: Array
+(
+    [username] => admin
+    [isAdmin] => 1
+)
+
+[28-Dec-2024 18:10:32 Europe/Paris] POST data: Array
+(
+)
+
+[28-Dec-2024 18:10:32 Europe/Paris] Received action: get
+[28-Dec-2024 18:10:32 Europe/Paris] Session data: Array
+(
+    [username] => admin
+    [isAdmin] => 1
+)
+
+[28-Dec-2024 18:10:32 Europe/Paris] POST data: Array
+(
+)
+
+[28-Dec-2024 18:10:32 Europe/Paris] Received action: get
+[28-Dec-2024 18:10:32 Europe/Paris] Session data: Array
+(
+    [username] => admin
+    [isAdmin] => 1
+)
+
+[28-Dec-2024 18:10:32 Europe/Paris] POST data: Array
+(
+)
+
+[28-Dec-2024 18:10:32 Europe/Paris] Received action: get
+[28-Dec-2024 18:10:32 Europe/Paris] Session data: Array
+(
+    [username] => admin
+    [isAdmin] => 1
+)
+
+[28-Dec-2024 18:10:32 Europe/Paris] POST data: Array
+(
+)
+
+[28-Dec-2024 18:10:32 Europe/Paris] Received action: get
+[28-Dec-2024 18:10:32 Europe/Paris] Session data: Array
+(
+    [username] => admin
+    [isAdmin] => 1
+)
+
+[28-Dec-2024 18:10:32 Europe/Paris] POST data: Array
+(
+)
+
+[28-Dec-2024 18:10:32 Europe/Paris] Received action: get
+[28-Dec-2024 18:10:32 Europe/Paris] Session data: Array
+(
+    [username] => admin
+    [isAdmin] => 1
+)
+
+[28-Dec-2024 18:10:32 Europe/Paris] POST data: Array
+(
+)
+
+[28-Dec-2024 18:10:32 Europe/Paris] Received action: get
+[28-Dec-2024 18:10:32 Europe/Paris] Session data: Array
+(
+    [username] => admin
+    [isAdmin] => 1
+)
+
+[28-Dec-2024 18:10:32 Europe/Paris] POST data: Array
+(
+)
+
+[28-Dec-2024 18:10:32 Europe/Paris] Received action: get
+[28-Dec-2024 18:10:32 Europe/Paris] Session data: Array
+(
+    [username] => admin
+    [isAdmin] => 1
+)
+
+[28-Dec-2024 18:10:32 Europe/Paris] POST data: Array
+(
+)
+
+[28-Dec-2024 18:10:32 Europe/Paris] Received action: get
+[28-Dec-2024 18:10:32 Europe/Paris] Session data: Array
+(
+    [username] => admin
+    [isAdmin] => 1
+)
+
+[28-Dec-2024 18:10:32 Europe/Paris] POST data: Array
+(
+)
+
+[28-Dec-2024 18:10:38 Europe/Paris] Received action: delete
+[28-Dec-2024 18:10:38 Europe/Paris] Session data: Array
+(
+    [username] => admin
+    [isAdmin] => 1
+)
+
+[28-Dec-2024 18:10:38 Europe/Paris] POST data: Array
+(
+    [action] => delete
+    [commentId] => 5
+)
+
+[28-Dec-2024 18:10:40 Europe/Paris] Received action: get
+[28-Dec-2024 18:10:40 Europe/Paris] Session data: Array
+(
+    [username] => admin
+    [isAdmin] => 1
+)
+
+[28-Dec-2024 18:10:40 Europe/Paris] POST data: Array
+(
+)
+
+[28-Dec-2024 18:10:40 Europe/Paris] Received action: get
+[28-Dec-2024 18:10:40 Europe/Paris] Session data: Array
+(
+    [username] => admin
+    [isAdmin] => 1
+)
+
+[28-Dec-2024 18:10:40 Europe/Paris] POST data: Array
+(
+)
+
+[28-Dec-2024 18:10:40 Europe/Paris] Received action: get
+[28-Dec-2024 18:10:40 Europe/Paris] Session data: Array
+(
+    [username] => admin
+    [isAdmin] => 1
+)
+
+[28-Dec-2024 18:10:40 Europe/Paris] POST data: Array
+(
+)
+
+[28-Dec-2024 18:10:40 Europe/Paris] Received action: get
+[28-Dec-2024 18:10:40 Europe/Paris] Session data: Array
+(
+    [username] => admin
+    [isAdmin] => 1
+)
+
+[28-Dec-2024 18:10:40 Europe/Paris] POST data: Array
+(
+)
+
+[28-Dec-2024 18:10:40 Europe/Paris] Received action: get
+[28-Dec-2024 18:10:40 Europe/Paris] Session data: Array
+(
+    [username] => admin
+    [isAdmin] => 1
+)
+
+[28-Dec-2024 18:10:40 Europe/Paris] POST data: Array
+(
+)
+
+[28-Dec-2024 18:10:40 Europe/Paris] Received action: get
+[28-Dec-2024 18:10:40 Europe/Paris] Session data: Array
+(
+    [username] => admin
+    [isAdmin] => 1
+)
+
+[28-Dec-2024 18:10:40 Europe/Paris] POST data: Array
+(
+)
+
+[28-Dec-2024 18:10:40 Europe/Paris] Received action: get
+[28-Dec-2024 18:10:40 Europe/Paris] Session data: Array
+(
+    [username] => admin
+    [isAdmin] => 1
+)
+
+[28-Dec-2024 18:10:40 Europe/Paris] POST data: Array
+(
+)
+
+[28-Dec-2024 18:10:40 Europe/Paris] Received action: get
+[28-Dec-2024 18:10:40 Europe/Paris] Session data: Array
+(
+    [username] => admin
+    [isAdmin] => 1
+)
+
+[28-Dec-2024 18:10:40 Europe/Paris] POST data: Array
+(
+)
+
+[28-Dec-2024 18:10:40 Europe/Paris] Received action: get
+[28-Dec-2024 18:10:40 Europe/Paris] Session data: Array
+(
+    [username] => admin
+    [isAdmin] => 1
+)
+
+[28-Dec-2024 18:10:40 Europe/Paris] POST data: Array
+(
+)
+
+[28-Dec-2024 18:10:40 Europe/Paris] Received action: get
+[28-Dec-2024 18:10:40 Europe/Paris] Session data: Array
+(
+    [username] => admin
+    [isAdmin] => 1
+)
+
+[28-Dec-2024 18:10:40 Europe/Paris] POST data: Array
+(
+)
+
+[29-Dec-2024 06:00:20 Europe/Paris] Received action: get
+[29-Dec-2024 06:00:20 Europe/Paris] Session data: Array
+(
+    [user_id] => 12
+    [username] => 1
+    [isAdmin] => 
+)
+
+[29-Dec-2024 06:00:20 Europe/Paris] POST data: Array
+(
+)
+
+[29-Dec-2024 06:00:20 Europe/Paris] Received action: get
+[29-Dec-2024 06:00:20 Europe/Paris] Session data: Array
+(
+    [user_id] => 12
+    [username] => 1
+    [isAdmin] => 
+)
+
+[29-Dec-2024 06:00:20 Europe/Paris] POST data: Array
+(
+)
+
+[29-Dec-2024 06:00:20 Europe/Paris] Received action: get
+[29-Dec-2024 06:00:20 Europe/Paris] Session data: Array
+(
+    [user_id] => 12
+    [username] => 1
+    [isAdmin] => 
+)
+
+[29-Dec-2024 06:00:20 Europe/Paris] POST data: Array
+(
+)
+
+[29-Dec-2024 06:00:20 Europe/Paris] Received action: get
+[29-Dec-2024 06:00:20 Europe/Paris] Session data: Array
+(
+    [user_id] => 12
+    [username] => 1
+    [isAdmin] => 
+)
+
+[29-Dec-2024 06:00:20 Europe/Paris] POST data: Array
+(
+)
+
+[29-Dec-2024 06:00:20 Europe/Paris] Received action: get
+[29-Dec-2024 06:00:20 Europe/Paris] Session data: Array
+(
+    [user_id] => 12
+    [username] => 1
+    [isAdmin] => 
+)
+
+[29-Dec-2024 06:00:20 Europe/Paris] POST data: Array
+(
+)
+
+[29-Dec-2024 06:00:20 Europe/Paris] Received action: get
+[29-Dec-2024 06:00:20 Europe/Paris] Session data: Array
+(
+    [user_id] => 12
+    [username] => 1
+    [isAdmin] => 
+)
+
+[29-Dec-2024 06:00:20 Europe/Paris] POST data: Array
+(
+)
+
+[29-Dec-2024 06:00:20 Europe/Paris] Received action: get
+[29-Dec-2024 06:00:20 Europe/Paris] Session data: Array
+(
+    [user_id] => 12
+    [username] => 1
+    [isAdmin] => 
+)
+
+[29-Dec-2024 06:00:20 Europe/Paris] POST data: Array
+(
+)
+
+[29-Dec-2024 06:00:20 Europe/Paris] Received action: get
+[29-Dec-2024 06:00:20 Europe/Paris] Session data: Array
+(
+    [user_id] => 12
+    [username] => 1
+    [isAdmin] => 
+)
+
+[29-Dec-2024 06:00:20 Europe/Paris] POST data: Array
+(
+)
+
+[29-Dec-2024 06:00:20 Europe/Paris] Received action: get
+[29-Dec-2024 06:00:20 Europe/Paris] Session data: Array
+(
+    [user_id] => 12
+    [username] => 1
+    [isAdmin] => 
+)
+
+[29-Dec-2024 06:00:20 Europe/Paris] POST data: Array
+(
+)
+
+[29-Dec-2024 06:00:20 Europe/Paris] Received action: get
+[29-Dec-2024 06:00:20 Europe/Paris] Session data: Array
+(
+    [user_id] => 12
+    [username] => 1
+    [isAdmin] => 
+)
+
+[29-Dec-2024 06:00:20 Europe/Paris] POST data: Array
+(
+)
+
+[29-Dec-2024 06:00:51 Europe/Paris] Received action: get
+[29-Dec-2024 06:00:51 Europe/Paris] Session data: Array
+(
+    [username] => admin
+    [isAdmin] => 1
+)
+
+[29-Dec-2024 06:00:51 Europe/Paris] POST data: Array
+(
+)
+
+[29-Dec-2024 06:00:51 Europe/Paris] Received action: get
+[29-Dec-2024 06:00:51 Europe/Paris] Session data: Array
+(
+    [username] => admin
+    [isAdmin] => 1
+)
+
+[29-Dec-2024 06:00:51 Europe/Paris] POST data: Array
+(
+)
+
+[29-Dec-2024 06:00:51 Europe/Paris] Received action: get
+[29-Dec-2024 06:00:51 Europe/Paris] Session data: Array
+(
+    [username] => admin
+    [isAdmin] => 1
+)
+
+[29-Dec-2024 06:00:51 Europe/Paris] POST data: Array
+(
+)
+
+[29-Dec-2024 06:00:51 Europe/Paris] Received action: get
+[29-Dec-2024 06:00:51 Europe/Paris] Session data: Array
+(
+    [username] => admin
+    [isAdmin] => 1
+)
+
+[29-Dec-2024 06:00:51 Europe/Paris] POST data: Array
+(
+)
+
+[29-Dec-2024 06:00:51 Europe/Paris] Received action: get
+[29-Dec-2024 06:00:51 Europe/Paris] Session data: Array
+(
+    [username] => admin
+    [isAdmin] => 1
+)
+
+[29-Dec-2024 06:00:51 Europe/Paris] POST data: Array
+(
+)
+
+[29-Dec-2024 06:00:51 Europe/Paris] Received action: get
+[29-Dec-2024 06:00:51 Europe/Paris] Session data: Array
+(
+    [username] => admin
+    [isAdmin] => 1
+)
+
+[29-Dec-2024 06:00:51 Europe/Paris] POST data: Array
+(
+)
+
+[29-Dec-2024 06:00:51 Europe/Paris] Received action: get
+[29-Dec-2024 06:00:51 Europe/Paris] Session data: Array
+(
+    [username] => admin
+    [isAdmin] => 1
+)
+
+[29-Dec-2024 06:00:51 Europe/Paris] POST data: Array
+(
+)
+
+[29-Dec-2024 06:00:51 Europe/Paris] Received action: get
+[29-Dec-2024 06:00:51 Europe/Paris] Session data: Array
+(
+    [username] => admin
+    [isAdmin] => 1
+)
+
+[29-Dec-2024 06:00:51 Europe/Paris] POST data: Array
+(
+)
+
+[29-Dec-2024 06:00:51 Europe/Paris] Received action: get
+[29-Dec-2024 06:00:51 Europe/Paris] Session data: Array
+(
+    [username] => admin
+    [isAdmin] => 1
+)
+
+[29-Dec-2024 06:00:51 Europe/Paris] POST data: Array
+(
+)
+
+[29-Dec-2024 06:00:51 Europe/Paris] Received action: get
+[29-Dec-2024 06:00:51 Europe/Paris] Session data: Array
+(
+    [username] => admin
+    [isAdmin] => 1
+)
+
+[29-Dec-2024 06:00:51 Europe/Paris] POST data: Array
+(
+)
+
+[29-Dec-2024 06:01:00 Europe/Paris] Received action: add
+[29-Dec-2024 06:01:00 Europe/Paris] Session data: Array
+(
+    [username] => admin
+    [isAdmin] => 1
+)
+
+[29-Dec-2024 06:01:00 Europe/Paris] POST data: Array
+(
+    [action] => add
+    [content] => 好
+    [pageId] => /web/figures.php
+    [elementId] => moment-mozi
+)
+
+[29-Dec-2024 06:05:47 Europe/Paris] Received action: get
+[29-Dec-2024 06:05:47 Europe/Paris] Session data: Array
+(
+    [user_id] => 24
+    [username] => 12
+    [isAdmin] => 
+)
+
+[29-Dec-2024 06:05:47 Europe/Paris] POST data: Array
+(
+)
+
+[29-Dec-2024 06:05:47 Europe/Paris] Received action: get
+[29-Dec-2024 06:05:47 Europe/Paris] Session data: Array
+(
+    [user_id] => 24
+    [username] => 12
+    [isAdmin] => 
+)
+
+[29-Dec-2024 06:05:47 Europe/Paris] POST data: Array
+(
+)
+
+[29-Dec-2024 06:05:47 Europe/Paris] Received action: get
+[29-Dec-2024 06:05:47 Europe/Paris] Session data: Array
+(
+    [user_id] => 24
+    [username] => 12
+    [isAdmin] => 
+)
+
+[29-Dec-2024 06:05:47 Europe/Paris] POST data: Array
+(
+)
+
+[29-Dec-2024 06:05:47 Europe/Paris] Received action: get
+[29-Dec-2024 06:05:47 Europe/Paris] Session data: Array
+(
+    [user_id] => 24
+    [username] => 12
+    [isAdmin] => 
+)
+
+[29-Dec-2024 06:05:47 Europe/Paris] POST data: Array
+(
+)
+
+[29-Dec-2024 06:05:47 Europe/Paris] Received action: get
+[29-Dec-2024 06:05:47 Europe/Paris] Session data: Array
+(
+    [user_id] => 24
+    [username] => 12
+    [isAdmin] => 
+)
+
+[29-Dec-2024 06:05:47 Europe/Paris] POST data: Array
+(
+)
+
+[29-Dec-2024 06:05:47 Europe/Paris] Received action: get
+[29-Dec-2024 06:05:47 Europe/Paris] Session data: Array
+(
+    [user_id] => 24
+    [username] => 12
+    [isAdmin] => 
+)
+
+[29-Dec-2024 06:05:47 Europe/Paris] POST data: Array
+(
+)
+
+[29-Dec-2024 06:05:47 Europe/Paris] Received action: get
+[29-Dec-2024 06:05:47 Europe/Paris] Session data: Array
+(
+    [user_id] => 24
+    [username] => 12
+    [isAdmin] => 
+)
+
+[29-Dec-2024 06:05:47 Europe/Paris] POST data: Array
+(
+)
+
+[29-Dec-2024 06:05:47 Europe/Paris] Received action: get
+[29-Dec-2024 06:05:47 Europe/Paris] Session data: Array
+(
+    [user_id] => 24
+    [username] => 12
+    [isAdmin] => 
+)
+
+[29-Dec-2024 06:05:47 Europe/Paris] POST data: Array
+(
+)
+
+[29-Dec-2024 06:05:47 Europe/Paris] Received action: get
+[29-Dec-2024 06:05:47 Europe/Paris] Session data: Array
+(
+    [user_id] => 24
+    [username] => 12
+    [isAdmin] => 
+)
+
+[29-Dec-2024 06:05:47 Europe/Paris] POST data: Array
+(
+)
+
+[29-Dec-2024 06:05:47 Europe/Paris] Received action: get
+[29-Dec-2024 06:05:47 Europe/Paris] Session data: Array
+(
+    [user_id] => 24
+    [username] => 12
+    [isAdmin] => 
+)
+
+[29-Dec-2024 06:05:47 Europe/Paris] POST data: Array
+(
+)
+
+[29-Dec-2024 06:22:30 Europe/Paris] Received action: get
+[29-Dec-2024 06:22:30 Europe/Paris] Session data: Array
+(
+)
+
+[29-Dec-2024 06:22:30 Europe/Paris] POST data: Array
+(
+)
+
+[29-Dec-2024 06:22:30 Europe/Paris] Received action: get
+[29-Dec-2024 06:22:30 Europe/Paris] Session data: Array
+(
+)
+
+[29-Dec-2024 06:22:30 Europe/Paris] POST data: Array
+(
+)
+
+[29-Dec-2024 06:22:30 Europe/Paris] Received action: get
+[29-Dec-2024 06:22:30 Europe/Paris] Session data: Array
+(
+)
+
+[29-Dec-2024 06:22:30 Europe/Paris] POST data: Array
+(
+)
+
+[29-Dec-2024 06:22:30 Europe/Paris] Received action: get
+[29-Dec-2024 06:22:30 Europe/Paris] Session data: Array
+(
+)
+
+[29-Dec-2024 06:22:30 Europe/Paris] POST data: Array
+(
+)
+
+[29-Dec-2024 06:22:30 Europe/Paris] Received action: get
+[29-Dec-2024 06:22:30 Europe/Paris] Session data: Array
+(
+)
+
+[29-Dec-2024 06:22:30 Europe/Paris] POST data: Array
+(
+)
+
+[29-Dec-2024 06:22:30 Europe/Paris] Received action: get
+[29-Dec-2024 06:22:30 Europe/Paris] Session data: Array
+(
+)
+
+[29-Dec-2024 06:22:30 Europe/Paris] POST data: Array
+(
+)
+
+[29-Dec-2024 06:22:30 Europe/Paris] Received action: get
+[29-Dec-2024 06:22:30 Europe/Paris] Session data: Array
+(
+)
+
+[29-Dec-2024 06:22:30 Europe/Paris] POST data: Array
+(
+)
+
+[29-Dec-2024 06:22:30 Europe/Paris] Received action: get
+[29-Dec-2024 06:22:30 Europe/Paris] Session data: Array
+(
+)
+
+[29-Dec-2024 06:22:30 Europe/Paris] POST data: Array
+(
+)
+
+[29-Dec-2024 06:22:30 Europe/Paris] Received action: get
+[29-Dec-2024 06:22:30 Europe/Paris] Session data: Array
+(
+)
+
+[29-Dec-2024 06:22:30 Europe/Paris] POST data: Array
+(
+)
+
+[29-Dec-2024 06:22:30 Europe/Paris] Received action: get
+[29-Dec-2024 06:22:30 Europe/Paris] Session data: Array
+(
+)
+
+[29-Dec-2024 06:22:30 Europe/Paris] POST data: Array
+(
+)
+
+[30-Dec-2024 03:59:57 Europe/Paris] Received action: get
+[30-Dec-2024 03:59:57 Europe/Paris] Session data: Array
+(
+)
+
+[30-Dec-2024 03:59:57 Europe/Paris] POST data: Array
+(
+)
+
+[30-Dec-2024 03:59:57 Europe/Paris] Received action: get
+[30-Dec-2024 03:59:57 Europe/Paris] Session data: Array
+(
+)
+
+[30-Dec-2024 03:59:57 Europe/Paris] POST data: Array
+(
+)
+
+[30-Dec-2024 03:59:57 Europe/Paris] Received action: get
+[30-Dec-2024 03:59:57 Europe/Paris] Session data: Array
+(
+)
+
+[30-Dec-2024 03:59:57 Europe/Paris] POST data: Array
+(
+)
+
+[30-Dec-2024 03:59:57 Europe/Paris] Received action: get
+[30-Dec-2024 03:59:57 Europe/Paris] Session data: Array
+(
+)
+
+[30-Dec-2024 03:59:57 Europe/Paris] POST data: Array
+(
+)
+
+[30-Dec-2024 03:59:57 Europe/Paris] Received action: get
+[30-Dec-2024 03:59:57 Europe/Paris] Session data: Array
+(
+)
+
+[30-Dec-2024 03:59:57 Europe/Paris] POST data: Array
+(
+)
+
+[30-Dec-2024 03:59:57 Europe/Paris] Received action: get
+[30-Dec-2024 03:59:57 Europe/Paris] Session data: Array
+(
+)
+
+[30-Dec-2024 03:59:57 Europe/Paris] POST data: Array
+(
+)
+
+[30-Dec-2024 03:59:57 Europe/Paris] Received action: get
+[30-Dec-2024 03:59:57 Europe/Paris] Session data: Array
+(
+)
+
+[30-Dec-2024 03:59:57 Europe/Paris] POST data: Array
+(
+)
+
+[30-Dec-2024 03:59:57 Europe/Paris] Received action: get
+[30-Dec-2024 03:59:57 Europe/Paris] Session data: Array
+(
+)
+
+[30-Dec-2024 03:59:57 Europe/Paris] POST data: Array
+(
+)
+
+[30-Dec-2024 03:59:57 Europe/Paris] Received action: get
+[30-Dec-2024 03:59:57 Europe/Paris] Session data: Array
+(
+)
+
+[30-Dec-2024 03:59:57 Europe/Paris] POST data: Array
+(
+)
+
+[30-Dec-2024 03:59:57 Europe/Paris] Received action: get
+[30-Dec-2024 03:59:57 Europe/Paris] Session data: Array
+(
+)
+
+[30-Dec-2024 03:59:57 Europe/Paris] POST data: Array
+(
+)
+
+[30-Dec-2024 04:07:02 Europe/Paris] Received action: get
+[30-Dec-2024 04:07:02 Europe/Paris] Session data: Array
+(
+)
+
+[30-Dec-2024 04:07:02 Europe/Paris] POST data: Array
+(
+)
+
+[30-Dec-2024 04:07:02 Europe/Paris] Received action: get
+[30-Dec-2024 04:07:02 Europe/Paris] Session data: Array
+(
+)
+
+[30-Dec-2024 04:07:02 Europe/Paris] POST data: Array
+(
+)
+
+[30-Dec-2024 04:07:02 Europe/Paris] Received action: get
+[30-Dec-2024 04:07:02 Europe/Paris] Session data: Array
+(
+)
+
+[30-Dec-2024 04:07:02 Europe/Paris] POST data: Array
+(
+)
+
+[30-Dec-2024 04:07:02 Europe/Paris] Received action: get
+[30-Dec-2024 04:07:02 Europe/Paris] Session data: Array
+(
+)
+
+[30-Dec-2024 04:07:02 Europe/Paris] POST data: Array
+(
+)
+
+[30-Dec-2024 04:07:02 Europe/Paris] Received action: get
+[30-Dec-2024 04:07:02 Europe/Paris] Session data: Array
+(
+)
+
+[30-Dec-2024 04:07:02 Europe/Paris] POST data: Array
+(
+)
+
+[30-Dec-2024 04:07:02 Europe/Paris] Received action: get
+[30-Dec-2024 04:07:02 Europe/Paris] Session data: Array
+(
+)
+
+[30-Dec-2024 04:07:02 Europe/Paris] POST data: Array
+(
+)
+
+[30-Dec-2024 04:07:02 Europe/Paris] Received action: get
+[30-Dec-2024 04:07:02 Europe/Paris] Session data: Array
+(
+)
+
+[30-Dec-2024 04:07:02 Europe/Paris] POST data: Array
+(
+)
+
+[30-Dec-2024 04:07:02 Europe/Paris] Received action: get
+[30-Dec-2024 04:07:02 Europe/Paris] Session data: Array
+(
+)
+
+[30-Dec-2024 04:07:02 Europe/Paris] POST data: Array
+(
+)
+
+[30-Dec-2024 04:07:02 Europe/Paris] Received action: get
+[30-Dec-2024 04:07:02 Europe/Paris] Session data: Array
+(
+)
+
+[30-Dec-2024 04:07:02 Europe/Paris] POST data: Array
+(
+)
+
+[30-Dec-2024 04:07:02 Europe/Paris] Received action: get
+[30-Dec-2024 04:07:02 Europe/Paris] Session data: Array
+(
+)
+
+[30-Dec-2024 04:07:02 Europe/Paris] POST data: Array
+(
+)
+
+[30-Dec-2024 04:20:28 Europe/Paris] Received action: get
+[30-Dec-2024 04:20:28 Europe/Paris] Session data: Array
+(
+)
+
+[30-Dec-2024 04:20:28 Europe/Paris] POST data: Array
+(
+)
+
+[30-Dec-2024 04:20:28 Europe/Paris] Received action: get
+[30-Dec-2024 04:20:28 Europe/Paris] Session data: Array
+(
+)
+
+[30-Dec-2024 04:20:28 Europe/Paris] POST data: Array
+(
+)
+
+[30-Dec-2024 04:20:28 Europe/Paris] Received action: get
+[30-Dec-2024 04:20:28 Europe/Paris] Session data: Array
+(
+)
+
+[30-Dec-2024 04:20:28 Europe/Paris] POST data: Array
+(
+)
+
+[30-Dec-2024 04:20:28 Europe/Paris] Received action: get
+[30-Dec-2024 04:20:28 Europe/Paris] Session data: Array
+(
+)
+
+[30-Dec-2024 04:20:28 Europe/Paris] POST data: Array
+(
+)
+
+[30-Dec-2024 04:20:28 Europe/Paris] Received action: get
+[30-Dec-2024 04:20:28 Europe/Paris] Session data: Array
+(
+)
+
+[30-Dec-2024 04:20:28 Europe/Paris] POST data: Array
+(
+)
+
+[30-Dec-2024 04:20:28 Europe/Paris] Received action: get
+[30-Dec-2024 04:20:28 Europe/Paris] Session data: Array
+(
+)
+
+[30-Dec-2024 04:20:28 Europe/Paris] POST data: Array
+(
+)
+
+[30-Dec-2024 04:20:28 Europe/Paris] Received action: get
+[30-Dec-2024 04:20:28 Europe/Paris] Session data: Array
+(
+)
+
+[30-Dec-2024 04:20:28 Europe/Paris] POST data: Array
+(
+)
+
+[30-Dec-2024 04:20:28 Europe/Paris] Received action: get
+[30-Dec-2024 04:20:28 Europe/Paris] Session data: Array
+(
+)
+
+[30-Dec-2024 04:20:28 Europe/Paris] POST data: Array
+(
+)
+
+[30-Dec-2024 04:20:28 Europe/Paris] Received action: get
+[30-Dec-2024 04:20:28 Europe/Paris] Session data: Array
+(
+)
+
+[30-Dec-2024 04:20:28 Europe/Paris] POST data: Array
+(
+)
+
+[30-Dec-2024 04:20:28 Europe/Paris] Received action: get
+[30-Dec-2024 04:20:28 Europe/Paris] Session data: Array
+(
+)
+
+[30-Dec-2024 04:20:28 Europe/Paris] POST data: Array
+(
+)
+
+[30-Dec-2024 04:29:58 Europe/Paris] Received action: get
+[30-Dec-2024 04:29:58 Europe/Paris] Session data: Array
+(
+)
+
+[30-Dec-2024 04:29:58 Europe/Paris] POST data: Array
+(
+)
+
+[30-Dec-2024 04:29:58 Europe/Paris] Received action: get
+[30-Dec-2024 04:29:58 Europe/Paris] Session data: Array
+(
+)
+
+[30-Dec-2024 04:29:58 Europe/Paris] POST data: Array
+(
+)
+
+[30-Dec-2024 04:29:58 Europe/Paris] Received action: get
+[30-Dec-2024 04:29:58 Europe/Paris] Session data: Array
+(
+)
+
+[30-Dec-2024 04:29:58 Europe/Paris] POST data: Array
+(
+)
+
+[30-Dec-2024 04:29:58 Europe/Paris] Received action: get
+[30-Dec-2024 04:29:58 Europe/Paris] Session data: Array
+(
+)
+
+[30-Dec-2024 04:29:58 Europe/Paris] POST data: Array
+(
+)
+
+[30-Dec-2024 04:29:58 Europe/Paris] Received action: get
+[30-Dec-2024 04:29:58 Europe/Paris] Session data: Array
+(
+)
+
+[30-Dec-2024 04:29:58 Europe/Paris] POST data: Array
+(
+)
+
+[30-Dec-2024 04:29:58 Europe/Paris] Received action: get
+[30-Dec-2024 04:29:58 Europe/Paris] Session data: Array
+(
+)
+
+[30-Dec-2024 04:29:58 Europe/Paris] POST data: Array
+(
+)
+
+[30-Dec-2024 04:29:58 Europe/Paris] Received action: get
+[30-Dec-2024 04:29:58 Europe/Paris] Session data: Array
+(
+)
+
+[30-Dec-2024 04:29:58 Europe/Paris] POST data: Array
+(
+)
+
+[30-Dec-2024 04:29:58 Europe/Paris] Received action: get
+[30-Dec-2024 04:29:58 Europe/Paris] Session data: Array
+(
+)
+
+[30-Dec-2024 04:29:58 Europe/Paris] POST data: Array
+(
+)
+
+[30-Dec-2024 04:29:58 Europe/Paris] Received action: get
+[30-Dec-2024 04:29:58 Europe/Paris] Session data: Array
+(
+)
+
+[30-Dec-2024 04:29:58 Europe/Paris] POST data: Array
+(
+)
+
+[30-Dec-2024 04:29:58 Europe/Paris] Received action: get
+[30-Dec-2024 04:29:58 Europe/Paris] Session data: Array
+(
+)
+
+[30-Dec-2024 04:29:58 Europe/Paris] POST data: Array
+(
+)
+
+[30-Dec-2024 04:33:51 Europe/Paris] Received action: get
+[30-Dec-2024 04:33:51 Europe/Paris] Session data: Array
+(
+    [username] => admin
+    [isAdmin] => 1
+)
+
+[30-Dec-2024 04:33:51 Europe/Paris] POST data: Array
+(
+)
+
+[30-Dec-2024 04:33:51 Europe/Paris] Received action: get
+[30-Dec-2024 04:33:51 Europe/Paris] Session data: Array
+(
+    [username] => admin
+    [isAdmin] => 1
+)
+
+[30-Dec-2024 04:33:51 Europe/Paris] POST data: Array
+(
+)
+
+[30-Dec-2024 04:33:51 Europe/Paris] Received action: get
+[30-Dec-2024 04:33:51 Europe/Paris] Session data: Array
+(
+    [username] => admin
+    [isAdmin] => 1
+)
+
+[30-Dec-2024 04:33:51 Europe/Paris] POST data: Array
+(
+)
+
+[30-Dec-2024 04:33:51 Europe/Paris] Received action: get
+[30-Dec-2024 04:33:51 Europe/Paris] Session data: Array
+(
+    [username] => admin
+    [isAdmin] => 1
+)
+
+[30-Dec-2024 04:33:51 Europe/Paris] POST data: Array
+(
+)
+
+[30-Dec-2024 04:33:51 Europe/Paris] Received action: get
+[30-Dec-2024 04:33:51 Europe/Paris] Session data: Array
+(
+    [username] => admin
+    [isAdmin] => 1
+)
+
+[30-Dec-2024 04:33:51 Europe/Paris] POST data: Array
+(
+)
+
+[30-Dec-2024 04:33:51 Europe/Paris] Received action: get
+[30-Dec-2024 04:33:51 Europe/Paris] Session data: Array
+(
+    [username] => admin
+    [isAdmin] => 1
+)
+
+[30-Dec-2024 04:33:51 Europe/Paris] POST data: Array
+(
+)
+
+[30-Dec-2024 04:33:51 Europe/Paris] Received action: get
+[30-Dec-2024 04:33:51 Europe/Paris] Session data: Array
+(
+    [username] => admin
+    [isAdmin] => 1
+)
+
+[30-Dec-2024 04:33:51 Europe/Paris] POST data: Array
+(
+)
+
+[30-Dec-2024 04:33:51 Europe/Paris] Received action: get
+[30-Dec-2024 04:33:51 Europe/Paris] Session data: Array
+(
+    [username] => admin
+    [isAdmin] => 1
+)
+
+[30-Dec-2024 04:33:51 Europe/Paris] POST data: Array
+(
+)
+
+[30-Dec-2024 04:33:51 Europe/Paris] Received action: get
+[30-Dec-2024 04:33:51 Europe/Paris] Session data: Array
+(
+    [username] => admin
+    [isAdmin] => 1
+)
+
+[30-Dec-2024 04:33:51 Europe/Paris] POST data: Array
+(
+)
+
+[30-Dec-2024 04:33:51 Europe/Paris] Received action: get
+[30-Dec-2024 04:33:51 Europe/Paris] Session data: Array
+(
+    [username] => admin
+    [isAdmin] => 1
+)
+
+[30-Dec-2024 04:33:51 Europe/Paris] POST data: Array
+(
+)
+
+[30-Dec-2024 04:34:00 Europe/Paris] Received action: get
+[30-Dec-2024 04:34:00 Europe/Paris] Session data: Array
+(
+    [username] => admin
+    [isAdmin] => 1
+)
+
+[30-Dec-2024 04:34:00 Europe/Paris] POST data: Array
+(
+)
+
+[30-Dec-2024 04:34:00 Europe/Paris] Received action: get
+[30-Dec-2024 04:34:00 Europe/Paris] Session data: Array
+(
+    [username] => admin
+    [isAdmin] => 1
+)
+
+[30-Dec-2024 04:34:00 Europe/Paris] POST data: Array
+(
+)
+
+[30-Dec-2024 04:34:00 Europe/Paris] Received action: get
+[30-Dec-2024 04:34:00 Europe/Paris] Session data: Array
+(
+    [username] => admin
+    [isAdmin] => 1
+)
+
+[30-Dec-2024 04:34:00 Europe/Paris] POST data: Array
+(
+)
+
+[30-Dec-2024 04:34:00 Europe/Paris] Received action: get
+[30-Dec-2024 04:34:00 Europe/Paris] Session data: Array
+(
+    [username] => admin
+    [isAdmin] => 1
+)
+
+[30-Dec-2024 04:34:00 Europe/Paris] POST data: Array
+(
+)
+
+[30-Dec-2024 04:34:00 Europe/Paris] Received action: get
+[30-Dec-2024 04:34:00 Europe/Paris] Session data: Array
+(
+    [username] => admin
+    [isAdmin] => 1
+)
+
+[30-Dec-2024 04:34:00 Europe/Paris] POST data: Array
+(
+)
+
+[30-Dec-2024 04:34:00 Europe/Paris] Received action: get
+[30-Dec-2024 04:34:00 Europe/Paris] Session data: Array
+(
+    [username] => admin
+    [isAdmin] => 1
+)
+
+[30-Dec-2024 04:34:00 Europe/Paris] POST data: Array
+(
+)
+
+[30-Dec-2024 04:34:00 Europe/Paris] Received action: get
+[30-Dec-2024 04:34:00 Europe/Paris] Session data: Array
+(
+    [username] => admin
+    [isAdmin] => 1
+)
+
+[30-Dec-2024 04:34:00 Europe/Paris] POST data: Array
+(
+)
+
+[30-Dec-2024 04:34:00 Europe/Paris] Received action: get
+[30-Dec-2024 04:34:00 Europe/Paris] Session data: Array
+(
+    [username] => admin
+    [isAdmin] => 1
+)
+
+[30-Dec-2024 04:34:00 Europe/Paris] POST data: Array
+(
+)
+
+[30-Dec-2024 04:34:00 Europe/Paris] Received action: get
+[30-Dec-2024 04:34:00 Europe/Paris] Session data: Array
+(
+    [username] => admin
+    [isAdmin] => 1
+)
+
+[30-Dec-2024 04:34:00 Europe/Paris] POST data: Array
+(
+)
+
+[30-Dec-2024 04:34:00 Europe/Paris] Received action: get
+[30-Dec-2024 04:34:00 Europe/Paris] Session data: Array
+(
+    [username] => admin
+    [isAdmin] => 1
+)
+
+[30-Dec-2024 04:34:00 Europe/Paris] POST data: Array
+(
+)
+
+[30-Dec-2024 04:38:14 Europe/Paris] Received action: get
+[30-Dec-2024 04:38:14 Europe/Paris] Session data: Array
+(
+    [username] => admin
+    [isAdmin] => 1
+)
+
+[30-Dec-2024 04:38:14 Europe/Paris] POST data: Array
+(
+)
+
+[30-Dec-2024 04:38:14 Europe/Paris] Received action: get
+[30-Dec-2024 04:38:14 Europe/Paris] Session data: Array
+(
+    [username] => admin
+    [isAdmin] => 1
+)
+
+[30-Dec-2024 04:38:14 Europe/Paris] POST data: Array
+(
+)
+
+[30-Dec-2024 04:38:14 Europe/Paris] Received action: get
+[30-Dec-2024 04:38:14 Europe/Paris] Session data: Array
+(
+    [username] => admin
+    [isAdmin] => 1
+)
+
+[30-Dec-2024 04:38:14 Europe/Paris] POST data: Array
+(
+)
+
+[30-Dec-2024 04:38:14 Europe/Paris] Received action: get
+[30-Dec-2024 04:38:14 Europe/Paris] Session data: Array
+(
+    [username] => admin
+    [isAdmin] => 1
+)
+
+[30-Dec-2024 04:38:14 Europe/Paris] POST data: Array
+(
+)
+
+[30-Dec-2024 04:38:14 Europe/Paris] Received action: get
+[30-Dec-2024 04:38:14 Europe/Paris] Session data: Array
+(
+    [username] => admin
+    [isAdmin] => 1
+)
+
+[30-Dec-2024 04:38:14 Europe/Paris] POST data: Array
+(
+)
+
+[30-Dec-2024 04:38:14 Europe/Paris] Received action: get
+[30-Dec-2024 04:38:14 Europe/Paris] Session data: Array
+(
+    [username] => admin
+    [isAdmin] => 1
+)
+
+[30-Dec-2024 04:38:14 Europe/Paris] POST data: Array
+(
+)
+
+[30-Dec-2024 04:38:14 Europe/Paris] Received action: get
+[30-Dec-2024 04:38:14 Europe/Paris] Session data: Array
+(
+    [username] => admin
+    [isAdmin] => 1
+)
+
+[30-Dec-2024 04:38:14 Europe/Paris] POST data: Array
+(
+)
+
+[30-Dec-2024 04:38:14 Europe/Paris] Received action: get
+[30-Dec-2024 04:38:14 Europe/Paris] Session data: Array
+(
+    [username] => admin
+    [isAdmin] => 1
+)
+
+[30-Dec-2024 04:38:14 Europe/Paris] POST data: Array
+(
+)
+
+[30-Dec-2024 04:38:14 Europe/Paris] Received action: get
+[30-Dec-2024 04:38:14 Europe/Paris] Session data: Array
+(
+    [username] => admin
+    [isAdmin] => 1
+)
+
+[30-Dec-2024 04:38:14 Europe/Paris] POST data: Array
+(
+)
+
+[30-Dec-2024 04:38:14 Europe/Paris] Received action: get
+[30-Dec-2024 04:38:14 Europe/Paris] Session data: Array
+(
+    [username] => admin
+    [isAdmin] => 1
+)
+
+[30-Dec-2024 04:38:14 Europe/Paris] POST data: Array
+(
+)
+
+[30-Dec-2024 04:47:58 Europe/Paris] Received action: get
+[30-Dec-2024 04:47:58 Europe/Paris] Session data: Array
+(
+    [username] => admin
+    [isAdmin] => 1
+)
+
+[30-Dec-2024 04:47:58 Europe/Paris] POST data: Array
+(
+)
+
+[30-Dec-2024 04:47:58 Europe/Paris] Received action: get
+[30-Dec-2024 04:47:58 Europe/Paris] Session data: Array
+(
+    [username] => admin
+    [isAdmin] => 1
+)
+
+[30-Dec-2024 04:47:58 Europe/Paris] POST data: Array
+(
+)
+
+[30-Dec-2024 04:47:58 Europe/Paris] Received action: get
+[30-Dec-2024 04:47:58 Europe/Paris] Session data: Array
+(
+    [username] => admin
+    [isAdmin] => 1
+)
+
+[30-Dec-2024 04:47:58 Europe/Paris] POST data: Array
+(
+)
+
+[30-Dec-2024 04:47:58 Europe/Paris] Received action: get
+[30-Dec-2024 04:47:58 Europe/Paris] Session data: Array
+(
+    [username] => admin
+    [isAdmin] => 1
+)
+
+[30-Dec-2024 04:47:58 Europe/Paris] POST data: Array
+(
+)
+
+[30-Dec-2024 04:47:58 Europe/Paris] Received action: get
+[30-Dec-2024 04:47:58 Europe/Paris] Session data: Array
+(
+    [username] => admin
+    [isAdmin] => 1
+)
+
+[30-Dec-2024 04:47:58 Europe/Paris] POST data: Array
+(
+)
+
+[30-Dec-2024 04:47:58 Europe/Paris] Received action: get
+[30-Dec-2024 04:47:58 Europe/Paris] Session data: Array
+(
+    [username] => admin
+    [isAdmin] => 1
+)
+
+[30-Dec-2024 04:47:58 Europe/Paris] POST data: Array
+(
+)
+
+[30-Dec-2024 04:47:58 Europe/Paris] Received action: get
+[30-Dec-2024 04:47:58 Europe/Paris] Session data: Array
+(
+    [username] => admin
+    [isAdmin] => 1
+)
+
+[30-Dec-2024 04:47:58 Europe/Paris] POST data: Array
+(
+)
+
+[30-Dec-2024 04:47:58 Europe/Paris] Received action: get
+[30-Dec-2024 04:47:58 Europe/Paris] Session data: Array
+(
+    [username] => admin
+    [isAdmin] => 1
+)
+
+[30-Dec-2024 04:47:58 Europe/Paris] POST data: Array
+(
+)
+
+[30-Dec-2024 04:47:58 Europe/Paris] Received action: get
+[30-Dec-2024 04:47:58 Europe/Paris] Session data: Array
+(
+    [username] => admin
+    [isAdmin] => 1
+)
+
+[30-Dec-2024 04:47:58 Europe/Paris] POST data: Array
+(
+)
+
+[30-Dec-2024 04:47:58 Europe/Paris] Received action: get
+[30-Dec-2024 04:47:58 Europe/Paris] Session data: Array
+(
+    [username] => admin
+    [isAdmin] => 1
+)
+
+[30-Dec-2024 04:47:58 Europe/Paris] POST data: Array
+(
+)
+
+[30-Dec-2024 06:55:21 Europe/Paris] Received action: get
+[30-Dec-2024 06:55:21 Europe/Paris] Session data: Array
+(
+)
+
+[30-Dec-2024 06:55:21 Europe/Paris] POST data: Array
+(
+)
+
+[30-Dec-2024 06:55:21 Europe/Paris] Received action: get
+[30-Dec-2024 06:55:21 Europe/Paris] Session data: Array
+(
+)
+
+[30-Dec-2024 06:55:21 Europe/Paris] POST data: Array
+(
+)
+
+[30-Dec-2024 06:55:21 Europe/Paris] Received action: get
+[30-Dec-2024 06:55:21 Europe/Paris] Session data: Array
+(
+)
+
+[30-Dec-2024 06:55:21 Europe/Paris] POST data: Array
+(
+)
+
+[30-Dec-2024 06:55:21 Europe/Paris] Received action: get
+[30-Dec-2024 06:55:21 Europe/Paris] Session data: Array
+(
+)
+
+[30-Dec-2024 06:55:21 Europe/Paris] POST data: Array
+(
+)
+
+[30-Dec-2024 06:55:21 Europe/Paris] Received action: get
+[30-Dec-2024 06:55:21 Europe/Paris] Session data: Array
+(
+)
+
+[30-Dec-2024 06:55:21 Europe/Paris] POST data: Array
+(
+)
+
+[30-Dec-2024 06:55:21 Europe/Paris] Received action: get
+[30-Dec-2024 06:55:21 Europe/Paris] Session data: Array
+(
+)
+
+[30-Dec-2024 06:55:21 Europe/Paris] POST data: Array
+(
+)
+
+[30-Dec-2024 06:55:21 Europe/Paris] Received action: get
+[30-Dec-2024 06:55:21 Europe/Paris] Session data: Array
+(
+)
+
+[30-Dec-2024 06:55:21 Europe/Paris] POST data: Array
+(
+)
+
+[30-Dec-2024 06:55:21 Europe/Paris] Received action: get
+[30-Dec-2024 06:55:21 Europe/Paris] Session data: Array
+(
+)
+
+[30-Dec-2024 06:55:21 Europe/Paris] POST data: Array
+(
+)
+
+[30-Dec-2024 06:55:21 Europe/Paris] Received action: get
+[30-Dec-2024 06:55:21 Europe/Paris] Session data: Array
+(
+)
+
+[30-Dec-2024 06:55:21 Europe/Paris] POST data: Array
+(
+)
+
+[30-Dec-2024 06:55:21 Europe/Paris] Received action: get
+[30-Dec-2024 06:55:21 Europe/Paris] Session data: Array
+(
+)
+
+[30-Dec-2024 06:55:21 Europe/Paris] POST data: Array
+(
+)
+
+[30-Dec-2024 06:55:33 Europe/Paris] Received action: get
+[30-Dec-2024 06:55:33 Europe/Paris] Session data: Array
+(
+)
+
+[30-Dec-2024 06:55:33 Europe/Paris] POST data: Array
+(
+)
+
+[30-Dec-2024 06:55:33 Europe/Paris] Received action: get
+[30-Dec-2024 06:55:33 Europe/Paris] Session data: Array
+(
+)
+
+[30-Dec-2024 06:55:33 Europe/Paris] POST data: Array
+(
+)
+
+[30-Dec-2024 06:55:33 Europe/Paris] Received action: get
+[30-Dec-2024 06:55:33 Europe/Paris] Session data: Array
+(
+)
+
+[30-Dec-2024 06:55:33 Europe/Paris] POST data: Array
+(
+)
+
+[30-Dec-2024 06:55:33 Europe/Paris] Received action: get
+[30-Dec-2024 06:55:33 Europe/Paris] Session data: Array
+(
+)
+
+[30-Dec-2024 06:55:33 Europe/Paris] POST data: Array
+(
+)
+
+[30-Dec-2024 06:55:33 Europe/Paris] Received action: get
+[30-Dec-2024 06:55:33 Europe/Paris] Session data: Array
+(
+)
+
+[30-Dec-2024 06:55:33 Europe/Paris] POST data: Array
+(
+)
+
+[30-Dec-2024 06:55:33 Europe/Paris] Received action: get
+[30-Dec-2024 06:55:33 Europe/Paris] Session data: Array
+(
+)
+
+[30-Dec-2024 06:55:33 Europe/Paris] POST data: Array
+(
+)
+
+[30-Dec-2024 06:55:33 Europe/Paris] Received action: get
+[30-Dec-2024 06:55:33 Europe/Paris] Session data: Array
+(
+)
+
+[30-Dec-2024 06:55:33 Europe/Paris] POST data: Array
+(
+)
+
+[30-Dec-2024 06:55:33 Europe/Paris] Received action: get
+[30-Dec-2024 06:55:33 Europe/Paris] Session data: Array
+(
+)
+
+[30-Dec-2024 06:55:33 Europe/Paris] POST data: Array
+(
+)
+
+[30-Dec-2024 06:55:33 Europe/Paris] Received action: get
+[30-Dec-2024 06:55:33 Europe/Paris] Session data: Array
+(
+)
+
+[30-Dec-2024 06:55:33 Europe/Paris] POST data: Array
+(
+)
+
+[30-Dec-2024 06:55:33 Europe/Paris] Received action: get
+[30-Dec-2024 06:55:33 Europe/Paris] Session data: Array
+(
+)
+
+[30-Dec-2024 06:55:33 Europe/Paris] POST data: Array
+(
+)
+
+[30-Dec-2024 06:56:04 Europe/Paris] Received action: get
+[30-Dec-2024 06:56:04 Europe/Paris] Session data: Array
+(
+    [message] => 注册成功！
+    [user_id] => 25
+    [username] => test
+    [isAdmin] => 
+)
+
+[30-Dec-2024 06:56:04 Europe/Paris] POST data: Array
+(
+)
+
+[30-Dec-2024 06:56:04 Europe/Paris] Received action: get
+[30-Dec-2024 06:56:04 Europe/Paris] Session data: Array
+(
+    [message] => 注册成功！
+    [user_id] => 25
+    [username] => test
+    [isAdmin] => 
+)
+
+[30-Dec-2024 06:56:04 Europe/Paris] POST data: Array
+(
+)
+
+[30-Dec-2024 06:56:04 Europe/Paris] Received action: get
+[30-Dec-2024 06:56:04 Europe/Paris] Session data: Array
+(
+    [message] => 注册成功！
+    [user_id] => 25
+    [username] => test
+    [isAdmin] => 
+)
+
+[30-Dec-2024 06:56:04 Europe/Paris] POST data: Array
+(
+)
+
+[30-Dec-2024 06:56:04 Europe/Paris] Received action: get
+[30-Dec-2024 06:56:04 Europe/Paris] Session data: Array
+(
+    [message] => 注册成功！
+    [user_id] => 25
+    [username] => test
+    [isAdmin] => 
+)
+
+[30-Dec-2024 06:56:04 Europe/Paris] POST data: Array
+(
+)
+
+[30-Dec-2024 06:56:04 Europe/Paris] Received action: get
+[30-Dec-2024 06:56:04 Europe/Paris] Session data: Array
+(
+    [message] => 注册成功！
+    [user_id] => 25
+    [username] => test
+    [isAdmin] => 
+)
+
+[30-Dec-2024 06:56:04 Europe/Paris] POST data: Array
+(
+)
+
+[30-Dec-2024 06:56:04 Europe/Paris] Received action: get
+[30-Dec-2024 06:56:04 Europe/Paris] Session data: Array
+(
+    [message] => 注册成功！
+    [user_id] => 25
+    [username] => test
+    [isAdmin] => 
+)
+
+[30-Dec-2024 06:56:04 Europe/Paris] POST data: Array
+(
+)
+
+[30-Dec-2024 06:56:04 Europe/Paris] Received action: get
+[30-Dec-2024 06:56:04 Europe/Paris] Session data: Array
+(
+    [message] => 注册成功！
+    [user_id] => 25
+    [username] => test
+    [isAdmin] => 
+)
+
+[30-Dec-2024 06:56:04 Europe/Paris] POST data: Array
+(
+)
+
+[30-Dec-2024 06:56:04 Europe/Paris] Received action: get
+[30-Dec-2024 06:56:04 Europe/Paris] Session data: Array
+(
+    [message] => 注册成功！
+    [user_id] => 25
+    [username] => test
+    [isAdmin] => 
+)
+
+[30-Dec-2024 06:56:04 Europe/Paris] POST data: Array
+(
+)
+
+[30-Dec-2024 06:56:04 Europe/Paris] Received action: get
+[30-Dec-2024 06:56:04 Europe/Paris] Session data: Array
+(
+    [message] => 注册成功！
+    [user_id] => 25
+    [username] => test
+    [isAdmin] => 
+)
+
+[30-Dec-2024 06:56:04 Europe/Paris] POST data: Array
+(
+)
+
+[30-Dec-2024 06:56:04 Europe/Paris] Received action: get
+[30-Dec-2024 06:56:04 Europe/Paris] Session data: Array
+(
+    [message] => 注册成功！
+    [user_id] => 25
+    [username] => test
+    [isAdmin] => 
+)
+
+[30-Dec-2024 06:56:04 Europe/Paris] POST data: Array
+(
+)
+
+[30-Dec-2024 06:56:12 Europe/Paris] Received action: add
+[30-Dec-2024 06:56:12 Europe/Paris] Session data: Array
+(
+    [message] => 注册成功！
+    [user_id] => 25
+    [username] => test
+    [isAdmin] => 
+)
+
+[30-Dec-2024 06:56:12 Europe/Paris] POST data: Array
+(
+    [action] => add
+    [content] => 好
+    [pageId] => /web/figures.php
+    [elementId] => moment-mozi
+)
+
+[30-Dec-2024 06:56:12 Europe/Paris] Attempting to insert comment with data: Array
+(
+    [user_id] => 25
+    [username] => test
+    [content] => 好
+    [pageId] => /web/figures.php
+    [elementId] => moment-mozi
+)
+
+[30-Dec-2024 06:57:39 Europe/Paris] Received action: delete
+[30-Dec-2024 06:57:39 Europe/Paris] Session data: Array
+(
+    [username] => admin
+    [isAdmin] => 1
+)
+
+[30-Dec-2024 06:57:39 Europe/Paris] POST data: Array
+(
+    [action] => delete
+    [commentId] => 2
+)
+
+[30-Dec-2024 06:58:22 Europe/Paris] Received action: get
+[30-Dec-2024 06:58:22 Europe/Paris] Session data: Array
+(
+    [user_id] => 25
+    [username] => test
+    [isAdmin] => 
+)
+
+[30-Dec-2024 06:58:22 Europe/Paris] POST data: Array
+(
+)
+
+[30-Dec-2024 06:58:22 Europe/Paris] Received action: get
+[30-Dec-2024 06:58:22 Europe/Paris] Session data: Array
+(
+    [user_id] => 25
+    [username] => test
+    [isAdmin] => 
+)
+
+[30-Dec-2024 06:58:22 Europe/Paris] POST data: Array
+(
+)
+
+[30-Dec-2024 06:58:22 Europe/Paris] Received action: get
+[30-Dec-2024 06:58:22 Europe/Paris] Session data: Array
+(
+    [user_id] => 25
+    [username] => test
+    [isAdmin] => 
+)
+
+[30-Dec-2024 06:58:22 Europe/Paris] POST data: Array
+(
+)
+
+[30-Dec-2024 06:58:22 Europe/Paris] Received action: get
+[30-Dec-2024 06:58:22 Europe/Paris] Session data: Array
+(
+    [user_id] => 25
+    [username] => test
+    [isAdmin] => 
+)
+
+[30-Dec-2024 06:58:22 Europe/Paris] POST data: Array
+(
+)
+
+[30-Dec-2024 06:58:22 Europe/Paris] Received action: get
+[30-Dec-2024 06:58:22 Europe/Paris] Session data: Array
+(
+    [user_id] => 25
+    [username] => test
+    [isAdmin] => 
+)
+
+[30-Dec-2024 06:58:22 Europe/Paris] POST data: Array
+(
+)
+
+[30-Dec-2024 06:58:22 Europe/Paris] Received action: get
+[30-Dec-2024 06:58:22 Europe/Paris] Session data: Array
+(
+    [user_id] => 25
+    [username] => test
+    [isAdmin] => 
+)
+
+[30-Dec-2024 06:58:22 Europe/Paris] POST data: Array
+(
+)
+
+[30-Dec-2024 06:58:22 Europe/Paris] Received action: get
+[30-Dec-2024 06:58:22 Europe/Paris] Session data: Array
+(
+    [user_id] => 25
+    [username] => test
+    [isAdmin] => 
+)
+
+[30-Dec-2024 06:58:22 Europe/Paris] POST data: Array
+(
+)
+
+[30-Dec-2024 06:58:22 Europe/Paris] Received action: get
+[30-Dec-2024 06:58:22 Europe/Paris] Session data: Array
+(
+    [user_id] => 25
+    [username] => test
+    [isAdmin] => 
+)
+
+[30-Dec-2024 06:58:22 Europe/Paris] POST data: Array
+(
+)
+
+[30-Dec-2024 06:58:22 Europe/Paris] Received action: get
+[30-Dec-2024 06:58:22 Europe/Paris] Session data: Array
+(
+    [user_id] => 25
+    [username] => test
+    [isAdmin] => 
+)
+
+[30-Dec-2024 06:58:22 Europe/Paris] POST data: Array
+(
+)
+
+[30-Dec-2024 06:58:22 Europe/Paris] Received action: get
+[30-Dec-2024 06:58:22 Europe/Paris] Session data: Array
+(
+    [user_id] => 25
+    [username] => test
+    [isAdmin] => 
+)
+
+[30-Dec-2024 06:58:22 Europe/Paris] POST data: Array
+(
+)
+
+[30-Dec-2024 07:19:02 Europe/Paris] Received action: get
+[30-Dec-2024 07:19:02 Europe/Paris] Session data: Array
+(
+)
+
+[30-Dec-2024 07:19:02 Europe/Paris] POST data: Array
+(
+)
+
+[30-Dec-2024 07:19:02 Europe/Paris] Received action: get
+[30-Dec-2024 07:19:02 Europe/Paris] Session data: Array
+(
+)
+
+[30-Dec-2024 07:19:02 Europe/Paris] POST data: Array
+(
+)
+
+[30-Dec-2024 07:19:02 Europe/Paris] Received action: get
+[30-Dec-2024 07:19:02 Europe/Paris] Session data: Array
+(
+)
+
+[30-Dec-2024 07:19:02 Europe/Paris] POST data: Array
+(
+)
+
+[30-Dec-2024 07:19:02 Europe/Paris] Received action: get
+[30-Dec-2024 07:19:02 Europe/Paris] Session data: Array
+(
+)
+
+[30-Dec-2024 07:19:02 Europe/Paris] POST data: Array
+(
+)
+
+[30-Dec-2024 07:19:02 Europe/Paris] Received action: get
+[30-Dec-2024 07:19:02 Europe/Paris] Session data: Array
+(
+)
+
+[30-Dec-2024 07:19:02 Europe/Paris] POST data: Array
+(
+)
+
+[30-Dec-2024 07:19:02 Europe/Paris] Received action: get
+[30-Dec-2024 07:19:02 Europe/Paris] Session data: Array
+(
+)
+
+[30-Dec-2024 07:19:02 Europe/Paris] POST data: Array
+(
+)
+
+[30-Dec-2024 07:19:02 Europe/Paris] Received action: get
+[30-Dec-2024 07:19:02 Europe/Paris] Session data: Array
+(
+)
+
+[30-Dec-2024 07:19:02 Europe/Paris] POST data: Array
+(
+)
+
+[30-Dec-2024 07:19:02 Europe/Paris] Received action: get
+[30-Dec-2024 07:19:02 Europe/Paris] Session data: Array
+(
+)
+
+[30-Dec-2024 07:19:02 Europe/Paris] POST data: Array
+(
+)
+
+[30-Dec-2024 07:19:02 Europe/Paris] Received action: get
+[30-Dec-2024 07:19:02 Europe/Paris] Session data: Array
+(
+)
+
+[30-Dec-2024 07:19:02 Europe/Paris] POST data: Array
+(
+)
+
+[30-Dec-2024 07:19:02 Europe/Paris] Received action: get
+[30-Dec-2024 07:19:02 Europe/Paris] Session data: Array
+(
+)
+
+[30-Dec-2024 07:19:02 Europe/Paris] POST data: Array
+(
+)
+
+[22-Jan-2025 15:50:07 Europe/Paris] Received action: get
+[22-Jan-2025 15:50:07 Europe/Paris] Session data: Array
+(
+    [message] => 注册成功！
+    [user_id] => 26
+    [username] => 廖永凡
+    [isAdmin] => 
+)
+
+[22-Jan-2025 15:50:07 Europe/Paris] POST data: Array
+(
+)
+
+[22-Jan-2025 15:50:07 Europe/Paris] Received action: get
+[22-Jan-2025 15:50:07 Europe/Paris] Session data: Array
+(
+    [message] => 注册成功！
+    [user_id] => 26
+    [username] => 廖永凡
+    [isAdmin] => 
+)
+
+[22-Jan-2025 15:50:07 Europe/Paris] POST data: Array
+(
+)
+
+[22-Jan-2025 15:50:07 Europe/Paris] Received action: get
+[22-Jan-2025 15:50:07 Europe/Paris] Session data: Array
+(
+    [message] => 注册成功！
+    [user_id] => 26
+    [username] => 廖永凡
+    [isAdmin] => 
+)
+
+[22-Jan-2025 15:50:07 Europe/Paris] POST data: Array
+(
+)
+
+[22-Jan-2025 15:50:07 Europe/Paris] Received action: get
+[22-Jan-2025 15:50:07 Europe/Paris] Session data: Array
+(
+    [message] => 注册成功！
+    [user_id] => 26
+    [username] => 廖永凡
+    [isAdmin] => 
+)
+
+[22-Jan-2025 15:50:07 Europe/Paris] POST data: Array
+(
+)
+
+[22-Jan-2025 15:50:07 Europe/Paris] Received action: get
+[22-Jan-2025 15:50:07 Europe/Paris] Session data: Array
+(
+    [message] => 注册成功！
+    [user_id] => 26
+    [username] => 廖永凡
+    [isAdmin] => 
+)
+
+[22-Jan-2025 15:50:07 Europe/Paris] POST data: Array
+(
+)
+
+[22-Jan-2025 15:50:07 Europe/Paris] Received action: get
+[22-Jan-2025 15:50:07 Europe/Paris] Session data: Array
+(
+    [message] => 注册成功！
+    [user_id] => 26
+    [username] => 廖永凡
+    [isAdmin] => 
+)
+
+[22-Jan-2025 15:50:07 Europe/Paris] POST data: Array
+(
+)
+
+[22-Jan-2025 15:50:07 Europe/Paris] Received action: get
+[22-Jan-2025 15:50:07 Europe/Paris] Session data: Array
+(
+    [message] => 注册成功！
+    [user_id] => 26
+    [username] => 廖永凡
+    [isAdmin] => 
+)
+
+[22-Jan-2025 15:50:07 Europe/Paris] POST data: Array
+(
+)
+
+[22-Jan-2025 15:50:07 Europe/Paris] Received action: get
+[22-Jan-2025 15:50:07 Europe/Paris] Session data: Array
+(
+    [message] => 注册成功！
+    [user_id] => 26
+    [username] => 廖永凡
+    [isAdmin] => 
+)
+
+[22-Jan-2025 15:50:07 Europe/Paris] POST data: Array
+(
+)
+
+[22-Jan-2025 15:50:07 Europe/Paris] Received action: get
+[22-Jan-2025 15:50:07 Europe/Paris] Session data: Array
+(
+    [message] => 注册成功！
+    [user_id] => 26
+    [username] => 廖永凡
+    [isAdmin] => 
+)
+
+[22-Jan-2025 15:50:07 Europe/Paris] POST data: Array
+(
+)
+
+[22-Jan-2025 15:50:07 Europe/Paris] Received action: get
+[22-Jan-2025 15:50:07 Europe/Paris] Session data: Array
+(
+    [message] => 注册成功！
+    [user_id] => 26
+    [username] => 廖永凡
+    [isAdmin] => 
+)
+
+[22-Jan-2025 15:50:07 Europe/Paris] POST data: Array
+(
+)
+
+[22-Jan-2025 15:50:32 Europe/Paris] Received action: add
+[22-Jan-2025 15:50:32 Europe/Paris] Session data: Array
+(
+    [message] => 注册成功！
+    [user_id] => 26
+    [username] => 廖永凡
+    [isAdmin] => 
+)
+
+[22-Jan-2025 15:50:32 Europe/Paris] POST data: Array
+(
+    [action] => add
+    [content] => 很不错
+    [pageId] => /web/figures.php
+    [elementId] => moment-mozi
+)
+
+[22-Jan-2025 15:50:32 Europe/Paris] Attempting to insert comment with data: Array
+(
+    [user_id] => 26
+    [username] => 廖永凡
+    [content] => 很不错
+    [pageId] => /web/figures.php
+    [elementId] => moment-mozi
+)
+
+[22-Jan-2025 15:51:01 Europe/Paris] Received action: get
+[22-Jan-2025 15:51:01 Europe/Paris] Session data: Array
+(
+    [user_id] => 12
+    [username] => 1
+    [isAdmin] => 
+)
+
+[22-Jan-2025 15:51:01 Europe/Paris] POST data: Array
+(
+)
+
+[22-Jan-2025 15:51:01 Europe/Paris] Received action: get
+[22-Jan-2025 15:51:01 Europe/Paris] Session data: Array
+(
+    [user_id] => 12
+    [username] => 1
+    [isAdmin] => 
+)
+
+[22-Jan-2025 15:51:01 Europe/Paris] POST data: Array
+(
+)
+
+[22-Jan-2025 15:51:01 Europe/Paris] Received action: get
+[22-Jan-2025 15:51:01 Europe/Paris] Session data: Array
+(
+    [user_id] => 12
+    [username] => 1
+    [isAdmin] => 
+)
+
+[22-Jan-2025 15:51:01 Europe/Paris] POST data: Array
+(
+)
+
+[22-Jan-2025 15:51:01 Europe/Paris] Received action: get
+[22-Jan-2025 15:51:01 Europe/Paris] Session data: Array
+(
+    [user_id] => 12
+    [username] => 1
+    [isAdmin] => 
+)
+
+[22-Jan-2025 15:51:01 Europe/Paris] POST data: Array
+(
+)
+
+[22-Jan-2025 15:51:01 Europe/Paris] Received action: get
+[22-Jan-2025 15:51:01 Europe/Paris] Session data: Array
+(
+    [user_id] => 12
+    [username] => 1
+    [isAdmin] => 
+)
+
+[22-Jan-2025 15:51:01 Europe/Paris] POST data: Array
+(
+)
+
+[22-Jan-2025 15:51:01 Europe/Paris] Received action: get
+[22-Jan-2025 15:51:01 Europe/Paris] Session data: Array
+(
+    [user_id] => 12
+    [username] => 1
+    [isAdmin] => 
+)
+
+[22-Jan-2025 15:51:01 Europe/Paris] POST data: Array
+(
+)
+
+[22-Jan-2025 15:51:01 Europe/Paris] Received action: get
+[22-Jan-2025 15:51:01 Europe/Paris] Session data: Array
+(
+    [user_id] => 12
+    [username] => 1
+    [isAdmin] => 
+)
+
+[22-Jan-2025 15:51:01 Europe/Paris] POST data: Array
+(
+)
+
+[22-Jan-2025 15:51:01 Europe/Paris] Received action: get
+[22-Jan-2025 15:51:01 Europe/Paris] Session data: Array
+(
+    [user_id] => 12
+    [username] => 1
+    [isAdmin] => 
+)
+
+[22-Jan-2025 15:51:01 Europe/Paris] POST data: Array
+(
+)
+
+[22-Jan-2025 15:51:01 Europe/Paris] Received action: get
+[22-Jan-2025 15:51:01 Europe/Paris] Session data: Array
+(
+    [user_id] => 12
+    [username] => 1
+    [isAdmin] => 
+)
+
+[22-Jan-2025 15:51:01 Europe/Paris] POST data: Array
+(
+)
+
+[22-Jan-2025 15:51:01 Europe/Paris] Received action: get
+[22-Jan-2025 15:51:01 Europe/Paris] Session data: Array
+(
+    [user_id] => 12
+    [username] => 1
+    [isAdmin] => 
+)
+
+[22-Jan-2025 15:51:01 Europe/Paris] POST data: Array
+(
+)
+
+[22-Jan-2025 15:52:56 Europe/Paris] Received action: get
+[22-Jan-2025 15:52:56 Europe/Paris] Session data: Array
+(
+)
+
+[22-Jan-2025 15:52:56 Europe/Paris] POST data: Array
+(
+)
+
+[22-Jan-2025 15:52:56 Europe/Paris] Received action: get
+[22-Jan-2025 15:52:56 Europe/Paris] Session data: Array
+(
+)
+
+[22-Jan-2025 15:52:56 Europe/Paris] POST data: Array
+(
+)
+
+[22-Jan-2025 15:52:56 Europe/Paris] Received action: get
+[22-Jan-2025 15:52:56 Europe/Paris] Session data: Array
+(
+)
+
+[22-Jan-2025 15:52:56 Europe/Paris] POST data: Array
+(
+)
+
+[22-Jan-2025 15:52:56 Europe/Paris] Received action: get
+[22-Jan-2025 15:52:56 Europe/Paris] Session data: Array
+(
+)
+
+[22-Jan-2025 15:52:56 Europe/Paris] POST data: Array
+(
+)
+
+[22-Jan-2025 15:52:56 Europe/Paris] Received action: get
+[22-Jan-2025 15:52:56 Europe/Paris] Session data: Array
+(
+)
+
+[22-Jan-2025 15:52:56 Europe/Paris] POST data: Array
+(
+)
+
+[22-Jan-2025 15:52:56 Europe/Paris] Received action: get
+[22-Jan-2025 15:52:56 Europe/Paris] Session data: Array
+(
+)
+
+[22-Jan-2025 15:52:56 Europe/Paris] POST data: Array
+(
+)
+
+[22-Jan-2025 15:52:56 Europe/Paris] Received action: get
+[22-Jan-2025 15:52:56 Europe/Paris] Session data: Array
+(
+)
+
+[22-Jan-2025 15:52:56 Europe/Paris] POST data: Array
+(
+)
+
+[22-Jan-2025 15:52:56 Europe/Paris] Received action: get
+[22-Jan-2025 15:52:56 Europe/Paris] Session data: Array
+(
+)
+
+[22-Jan-2025 15:52:56 Europe/Paris] POST data: Array
+(
+)
+
+[22-Jan-2025 15:52:56 Europe/Paris] Received action: get
+[22-Jan-2025 15:52:56 Europe/Paris] Session data: Array
+(
+)
+
+[22-Jan-2025 15:52:56 Europe/Paris] POST data: Array
+(
+)
+
+[22-Jan-2025 15:52:56 Europe/Paris] Received action: get
+[22-Jan-2025 15:52:56 Europe/Paris] Session data: Array
+(
+)
+
+[22-Jan-2025 15:52:56 Europe/Paris] POST data: Array
+(
+)
+
+[22-Jan-2025 15:54:07 Europe/Paris] Received action: delete
+[22-Jan-2025 15:54:07 Europe/Paris] Session data: Array
+(
+    [username] => admin
+    [isAdmin] => 1
+)
+
+[22-Jan-2025 15:54:07 Europe/Paris] POST data: Array
+(
+    [action] => delete
+    [commentId] => 4
+)
+
+[22-Jan-2025 15:54:11 Europe/Paris] Received action: get
+[22-Jan-2025 15:54:11 Europe/Paris] Session data: Array
+(
+    [username] => admin
+    [isAdmin] => 1
+)
+
+[22-Jan-2025 15:54:11 Europe/Paris] POST data: Array
+(
+)
+
+[22-Jan-2025 15:54:11 Europe/Paris] Received action: get
+[22-Jan-2025 15:54:11 Europe/Paris] Session data: Array
+(
+    [username] => admin
+    [isAdmin] => 1
+)
+
+[22-Jan-2025 15:54:11 Europe/Paris] POST data: Array
+(
+)
+
+[22-Jan-2025 15:54:11 Europe/Paris] Received action: get
+[22-Jan-2025 15:54:11 Europe/Paris] Session data: Array
+(
+    [username] => admin
+    [isAdmin] => 1
+)
+
+[22-Jan-2025 15:54:11 Europe/Paris] POST data: Array
+(
+)
+
+[22-Jan-2025 15:54:11 Europe/Paris] Received action: get
+[22-Jan-2025 15:54:11 Europe/Paris] Session data: Array
+(
+    [username] => admin
+    [isAdmin] => 1
+)
+
+[22-Jan-2025 15:54:11 Europe/Paris] POST data: Array
+(
+)
+
+[22-Jan-2025 15:54:11 Europe/Paris] Received action: get
+[22-Jan-2025 15:54:11 Europe/Paris] Session data: Array
+(
+    [username] => admin
+    [isAdmin] => 1
+)
+
+[22-Jan-2025 15:54:11 Europe/Paris] POST data: Array
+(
+)
+
+[22-Jan-2025 15:54:11 Europe/Paris] Received action: get
+[22-Jan-2025 15:54:11 Europe/Paris] Session data: Array
+(
+    [username] => admin
+    [isAdmin] => 1
+)
+
+[22-Jan-2025 15:54:11 Europe/Paris] POST data: Array
+(
+)
+
+[22-Jan-2025 15:54:11 Europe/Paris] Received action: get
+[22-Jan-2025 15:54:11 Europe/Paris] Session data: Array
+(
+    [username] => admin
+    [isAdmin] => 1
+)
+
+[22-Jan-2025 15:54:11 Europe/Paris] POST data: Array
+(
+)
+
+[22-Jan-2025 15:54:11 Europe/Paris] Received action: get
+[22-Jan-2025 15:54:11 Europe/Paris] Session data: Array
+(
+    [username] => admin
+    [isAdmin] => 1
+)
+
+[22-Jan-2025 15:54:11 Europe/Paris] POST data: Array
+(
+)
+
+[22-Jan-2025 15:54:11 Europe/Paris] Received action: get
+[22-Jan-2025 15:54:11 Europe/Paris] Session data: Array
+(
+    [username] => admin
+    [isAdmin] => 1
+)
+
+[22-Jan-2025 15:54:11 Europe/Paris] POST data: Array
+(
+)
+
+[22-Jan-2025 15:54:11 Europe/Paris] Received action: get
+[22-Jan-2025 15:54:11 Europe/Paris] Session data: Array
+(
+    [username] => admin
+    [isAdmin] => 1
+)
+
+[22-Jan-2025 15:54:11 Europe/Paris] POST data: Array
+(
+)
+
+[22-Jan-2025 15:54:38 Europe/Paris] Received action: get
+[22-Jan-2025 15:54:38 Europe/Paris] Session data: Array
+(
+    [user_id] => 26
+    [username] => 廖永凡
+    [isAdmin] => 
+)
+
+[22-Jan-2025 15:54:38 Europe/Paris] POST data: Array
+(
+)
+
+[22-Jan-2025 15:54:38 Europe/Paris] Received action: get
+[22-Jan-2025 15:54:38 Europe/Paris] Session data: Array
+(
+    [user_id] => 26
+    [username] => 廖永凡
+    [isAdmin] => 
+)
+
+[22-Jan-2025 15:54:38 Europe/Paris] POST data: Array
+(
+)
+
+[22-Jan-2025 15:54:38 Europe/Paris] Received action: get
+[22-Jan-2025 15:54:38 Europe/Paris] Session data: Array
+(
+    [user_id] => 26
+    [username] => 廖永凡
+    [isAdmin] => 
+)
+
+[22-Jan-2025 15:54:38 Europe/Paris] POST data: Array
+(
+)
+
+[22-Jan-2025 15:54:38 Europe/Paris] Received action: get
+[22-Jan-2025 15:54:38 Europe/Paris] Session data: Array
+(
+    [user_id] => 26
+    [username] => 廖永凡
+    [isAdmin] => 
+)
+
+[22-Jan-2025 15:54:38 Europe/Paris] POST data: Array
+(
+)
+
+[22-Jan-2025 15:54:38 Europe/Paris] Received action: get
+[22-Jan-2025 15:54:38 Europe/Paris] Session data: Array
+(
+    [user_id] => 26
+    [username] => 廖永凡
+    [isAdmin] => 
+)
+
+[22-Jan-2025 15:54:38 Europe/Paris] POST data: Array
+(
+)
+
+[22-Jan-2025 15:54:38 Europe/Paris] Received action: get
+[22-Jan-2025 15:54:38 Europe/Paris] Session data: Array
+(
+    [user_id] => 26
+    [username] => 廖永凡
+    [isAdmin] => 
+)
+
+[22-Jan-2025 15:54:38 Europe/Paris] POST data: Array
+(
+)
+
+[22-Jan-2025 15:54:38 Europe/Paris] Received action: get
+[22-Jan-2025 15:54:38 Europe/Paris] Session data: Array
+(
+    [user_id] => 26
+    [username] => 廖永凡
+    [isAdmin] => 
+)
+
+[22-Jan-2025 15:54:38 Europe/Paris] POST data: Array
+(
+)
+
+[22-Jan-2025 15:54:38 Europe/Paris] Received action: get
+[22-Jan-2025 15:54:38 Europe/Paris] Session data: Array
+(
+    [user_id] => 26
+    [username] => 廖永凡
+    [isAdmin] => 
+)
+
+[22-Jan-2025 15:54:38 Europe/Paris] POST data: Array
+(
+)
+
+[22-Jan-2025 15:54:38 Europe/Paris] Received action: get
+[22-Jan-2025 15:54:38 Europe/Paris] Session data: Array
+(
+    [user_id] => 26
+    [username] => 廖永凡
+    [isAdmin] => 
+)
+
+[22-Jan-2025 15:54:38 Europe/Paris] POST data: Array
+(
+)
+
+[22-Jan-2025 15:54:38 Europe/Paris] Received action: get
+[22-Jan-2025 15:54:38 Europe/Paris] Session data: Array
+(
+    [user_id] => 26
+    [username] => 廖永凡
+    [isAdmin] => 
+)
+
+[22-Jan-2025 15:54:38 Europe/Paris] POST data: Array
+(
+)
+
+[16-Jun-2025 14:22:16 Europe/Paris] Received action: get
+[16-Jun-2025 14:22:16 Europe/Paris] Session data: Array
+(
+)
+
+[16-Jun-2025 14:22:16 Europe/Paris] POST data: Array
+(
+)
+
+[16-Jun-2025 14:22:16 Europe/Paris] Received action: get
+[16-Jun-2025 14:22:16 Europe/Paris] Session data: Array
+(
+)
+
+[16-Jun-2025 14:22:16 Europe/Paris] POST data: Array
+(
+)
+
+[16-Jun-2025 14:22:16 Europe/Paris] Received action: get
+[16-Jun-2025 14:22:16 Europe/Paris] Session data: Array
+(
+)
+
+[16-Jun-2025 14:22:16 Europe/Paris] POST data: Array
+(
+)
+
+[16-Jun-2025 14:22:16 Europe/Paris] Received action: get
+[16-Jun-2025 14:22:16 Europe/Paris] Session data: Array
+(
+)
+
+[16-Jun-2025 14:22:16 Europe/Paris] POST data: Array
+(
+)
+
+[16-Jun-2025 14:22:16 Europe/Paris] Received action: get
+[16-Jun-2025 14:22:16 Europe/Paris] Session data: Array
+(
+)
+
+[16-Jun-2025 14:22:16 Europe/Paris] POST data: Array
+(
+)
+
+[16-Jun-2025 14:22:16 Europe/Paris] Received action: get
+[16-Jun-2025 14:22:16 Europe/Paris] Session data: Array
+(
+)
+
+[16-Jun-2025 14:22:16 Europe/Paris] POST data: Array
+(
+)
+
+[16-Jun-2025 14:22:16 Europe/Paris] Received action: get
+[16-Jun-2025 14:22:16 Europe/Paris] Session data: Array
+(
+)
+
+[16-Jun-2025 14:22:16 Europe/Paris] POST data: Array
+(
+)
+
+[16-Jun-2025 14:22:16 Europe/Paris] Received action: get
+[16-Jun-2025 14:22:16 Europe/Paris] Session data: Array
+(
+)
+
+[16-Jun-2025 14:22:16 Europe/Paris] POST data: Array
+(
+)
+
+[16-Jun-2025 14:22:16 Europe/Paris] Received action: get
+[16-Jun-2025 14:22:16 Europe/Paris] Session data: Array
+(
+)
+
+[16-Jun-2025 14:22:16 Europe/Paris] POST data: Array
+(
+)
+
+[16-Jun-2025 14:22:16 Europe/Paris] Received action: get
+[16-Jun-2025 14:22:16 Europe/Paris] Session data: Array
+(
+)
+
+[16-Jun-2025 14:22:16 Europe/Paris] POST data: Array
+(
+)
+

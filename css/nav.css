@@ -1,0 +1,160 @@
+.nav {
+    background-color: #8B4513;
+    padding: 15px 0;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+}
+
+.nav-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav-links {
+    display: flex;
+    font-family: '楷体', 'SimKai', serif;
+    gap: 30px;
+}
+
+.nav-links a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 1.2em;
+    transition: color 0.3s;
+}
+
+.nav-links a:hover {
+    color: #F5E6CA;
+}
+
+.auth-section {
+    display: flex;
+    align-items: center;
+}
+
+.auth-buttons {
+    display: flex;
+    gap: 10px;
+}
+
+.auth-btn {
+    padding: 8px 16px;
+    background-color: #654321;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 14px;
+    text-decoration: none;
+}
+
+.auth-btn:hover {
+    background-color: #8B4513;
+}
+.admin-dropbtn{
+    font-family: '楷体', 'SimKai', serif;
+}
+.user-info {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    color: white;
+}
+
+.username-display {
+    font-size: 14px;
+}
+
+/* 管理员下拉菜单样式 */
+.admin-dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.admin-dropbtn {
+    background-color: transparent;
+    color: white;
+    padding: 0 15px;
+    font-size: 1.2em;
+    border: none;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+.admin-dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #8B4513;
+    min-width: 160px;
+    box-shadow: 0 8px 16px rgba(0,0,0,0.2);
+    z-index: 1;
+    border-radius: 4px;
+    overflow: hidden;
+}
+
+.admin-dropdown-content a {
+    color: white;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    transition: background-color 0.3s;
+}
+
+.admin-dropdown-content a:hover {
+    background-color: #654321;
+}
+
+.admin-dropdown:hover .admin-dropdown-content {
+    display: block;
+    animation: fadeIn 0.3s;
+}
+
+.admin-icon {
+    color: gold;
+    margin-right: 5px;
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(-10px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* 响应式设计 */
+@media (max-width: 768px) {
+    .nav-container {
+        flex-direction: column;
+        padding: 10px;
+    }
+
+    .nav-links {
+        flex-direction: column;
+        width: 100%;
+    }
+
+    .admin-dropdown {
+        width: 100%;
+    }
+
+    .admin-dropdown-content {
+        position: static;
+        width: 100%;
+    }
+
+    .auth-section {
+        margin-top: 10px;
+        width: 100%;
+    }
+} 
